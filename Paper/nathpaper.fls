@@ -1,8 +1,8 @@
-PWD /Users/rakesh/Documents/GitHub/PhD/Spatial detection paper
+PWD /Users/rakesh/Documents/GitHub/NathRanga2024/Paper
 INPUT /usr/local/texlive/2023/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/rakesh/Documents/GitHub/PhD/Spatial detection paper/nathpaper.tex
+INPUT /Users/rakesh/Documents/GitHub/NathRanga2024/Paper/nathpaper.tex
 OUTPUT nathpaper.log
 INPUT ./aa.cls
 INPUT ./aa.cls
@@ -1088,11 +1088,11 @@ INPUT ./fig4_dec2023.png
 INPUT fig4_dec2023.png
 INPUT ./fig4_dec2023.png
 INPUT ./fig4_dec2023.png
-INPUT ./fig4_March2024_referee.png
-INPUT ./fig4_March2024_referee.png
-INPUT fig4_March2024_referee.png
-INPUT ./fig4_March2024_referee.png
-INPUT ./fig4_March2024_referee.png
+INPUT ./fig4_Apr2024_referee.png
+INPUT ./fig4_Apr2024_referee.png
+INPUT fig4_Apr2024_referee.png
+INPUT ./fig4_Apr2024_referee.png
+INPUT ./fig4_Apr2024_referee.png
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/public/txfonts/t1xr.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/public/txfonts/txr.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/txfonts/rtxptmr.tfm
@@ -1107,11 +1107,11 @@ INPUT ./Fig6_final_September.png
 INPUT Fig6_final_September.png
 INPUT ./Fig6_final_September.png
 INPUT ./Fig6_final_September.png
-INPUT ./Fig6_March2024_referee.png
-INPUT ./Fig6_March2024_referee.png
-INPUT Fig6_March2024_referee.png
-INPUT ./Fig6_March2024_referee.png
-INPUT ./Fig6_March2024_referee.png
+INPUT ./Fig6_April2024_referee.png
+INPUT ./Fig6_April2024_referee.png
+INPUT Fig6_April2024_referee.png
+INPUT ./Fig6_April2024_referee.png
+INPUT ./Fig6_April2024_referee.png
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/txfonts/t1xi.tfm
 INPUT ./nathpaper.bbl
 INPUT nathpaper.bbl

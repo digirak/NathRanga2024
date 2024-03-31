@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.6)  14 MAR 2024 07:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.6)  31 MAR 2024 11:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/rakesh/Documents/GitHub/PhD/Spatial detection paper/nathpaper.tex"
-(/Users/rakesh/Documents/GitHub/PhD/Spatial detection paper/nathpaper.tex
+**/Users/rakesh/Documents/GitHub/NathRanga2024/Paper/nathpaper.tex
+(/Users/rakesh/Documents/GitHub/NathRanga2024/Paper/nathpaper.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (./aa.cls
 Document Class: aa 2016/09/01{} v9.1{} Class for AA journal
@@ -873,10 +873,10 @@ File: fig4_dec2023.png Graphic file (type png)
 <use fig4_dec2023.png>
 Package pdftex.def Info: fig4_dec2023.png  used on input line 603.
 (pdftex.def)             Requested size: 523.5307pt x 523.55922pt.
-<fig4_March2024_referee.png, id=495, 650.43pt x 578.16pt>
-File: fig4_March2024_referee.png Graphic file (type png)
-<use fig4_March2024_referee.png>
-Package pdftex.def Info: fig4_March2024_referee.png  used on input line 614.
+<fig4_Apr2024_referee.png, id=495, 650.43pt x 578.16pt>
+File: fig4_Apr2024_referee.png Graphic file (type png)
+<use fig4_Apr2024_referee.png>
+Package pdftex.def Info: fig4_Apr2024_referee.png  used on input line 614.
 (pdftex.def)             Requested size: 523.5307pt x 465.39577pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 625--625
@@ -920,7 +920,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package hyperref Warning: Suppressing link with empty target on input line 688.
 
-[13 <./fig4_March2024_referee.png>]
+[13 <./fig4_Apr2024_referee.png>]
 <fig5_disc_dec2023_cropped.png, id=542, 717.09908pt x 385.01843pt>
 File: fig5_disc_dec2023_cropped.png Graphic file (type png)
 <use fig5_disc_dec2023_cropped.png>
@@ -931,10 +931,10 @@ File: Fig6_final_September.png Graphic file (type png)
 <use Fig6_final_September.png>
 Package pdftex.def Info: Fig6_final_September.png  used on input line 730.
 (pdftex.def)             Requested size: 523.5307pt x 392.66942pt.
-<Fig6_March2024_referee.png, id=549, 578.16pt x 433.62pt>
-File: Fig6_March2024_referee.png Graphic file (type png)
-<use Fig6_March2024_referee.png>
-Package pdftex.def Info: Fig6_March2024_referee.png  used on input line 738.
+<Fig6_April2024_referee.png, id=549, 578.16pt x 433.62pt>
+File: Fig6_April2024_referee.png Graphic file (type png)
+<use Fig6_April2024_referee.png>
+Package pdftex.def Info: Fig6_April2024_referee.png  used on input line 738.
 (pdftex.def)             Requested size: 523.5307pt x 392.66942pt.
 
 
@@ -959,7 +959,7 @@ Package hyperref Warning: Suppressing link with empty target on input line 75.
 
 Package hyperref Warning: Suppressing link with empty target on input line 192.
 
-[17 <./Fig6_March2024_referee.png>])
+[17 <./Fig6_April2024_referee.png>])
 
 Package hyperref Warning: Suppressing link with empty target on input line 870.
 
@@ -1179,14 +1179,14 @@ Package natbib Warning: Citation `2022Zhang' multiply defined.
 ) ) 
 Here is how much of TeX's memory you used:
  16425 strings out of 476025
- 260180 string characters out of 5790017
+ 260140 string characters out of 5790017
  1878388 words of memory out of 5000000
  36414 multiletter control sequences out of 15000+600000
  610721 words of font info for 177 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,12n,90p,1546b,742s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 87i,12n,90p,1536b,742s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtcxr.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on nathpaper.pdf (18 pages, 2701104 bytes).
+Output written on nathpaper.pdf (18 pages, 2685542 bytes).
 PDF statistics:
  691 PDF objects out of 1000 (max. 8388607)
  608 compressed objects within 7 object streams
