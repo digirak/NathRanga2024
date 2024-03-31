@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex nathpaper"] 1711876752 "nathpaper.aux" "nathpaper.bbl" "nathpaper" 1711876763 0
+["bibtex nathpaper"] 1711877313 "nathpaper.aux" "nathpaper.bbl" "nathpaper" 1711877324 0
   "./aa.bst" 1711876359 32101 d07be6eccf1293b463b353311acc9bc2 ""
-  "./references.bib" 1711876359 102281 23407d621b686f5dab2be838bcee9d00 ""
-  "nathpaper.aux" 1711876762 38693 2f6e4c2077a5fcfc058e4c90567e5e0a "pdflatex"
+  "./references.bib" 1711877230 103483 c2a669bedbd7d4e3fd62e29faaa11039 ""
+  "nathpaper.aux" 1711877323 38742 6617b01c5736ea5fc60589ee962c937a "pdflatex"
   (generated)
   "nathpaper.bbl"
   "nathpaper.blg"
   (rewritten before read)
-["pdflatex"] 1711876753 "/Users/rakesh/Documents/GitHub/NathRanga2024/Paper/nathpaper.tex" "nathpaper.pdf" "nathpaper" 1711876763 0
-  "/Users/rakesh/Documents/GitHub/NathRanga2024/Paper/nathpaper.tex" 1711876722 100490 99456fb217d5e68acc26f0d39ab0ffe0 ""
+["pdflatex"] 1711877313 "/Users/rakesh/Documents/GitHub/NathRanga2024/Paper/nathpaper.tex" "nathpaper.pdf" "nathpaper" 1711877324 0
+  "/Users/rakesh/Documents/GitHub/NathRanga2024/Paper/nathpaper.tex" 1711877291 100498 1f978a2dd61af047814ee245c70389fa ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/ecrm1000.tfm" 1136768653 3584 adb004a0c8e7c46ee66cad73671f37b4 ""
@@ -181,10 +181,10 @@
   "fig4_dec2023.png" 1711876359 433050 b9e9a02201b137fabea2f84dc50e1564 ""
   "fig5_disc_dec2023_cropped.png" 1711876359 281752 d18870148130bd26984af54654c5d719 ""
   "fig_2_dec2023_aligned_cropped.png" 1711876359 235215 dd7ad56d7a67cf56be468d1c5242450d ""
-  "nathpaper.aux" 1711876762 38693 2f6e4c2077a5fcfc058e4c90567e5e0a "pdflatex"
-  "nathpaper.bbl" 1711876753 24756 61c85bd0611d95539a2dfdb26b19fb99 "bibtex nathpaper"
-  "nathpaper.out" 1711876762 5229 ae9a06c8554d1db58bae5b2262ccd455 "pdflatex"
-  "nathpaper.tex" 1711876722 100490 99456fb217d5e68acc26f0d39ab0ffe0 ""
+  "nathpaper.aux" 1711877323 38742 6617b01c5736ea5fc60589ee962c937a "pdflatex"
+  "nathpaper.bbl" 1711877313 24824 c5955e91c6dd3d1716159849855e2401 "bibtex nathpaper"
+  "nathpaper.out" 1711877323 5229 ae9a06c8554d1db58bae5b2262ccd455 "pdflatex"
+  "nathpaper.tex" 1711877291 100498 1f978a2dd61af047814ee245c70389fa ""
   (generated)
   "nathpaper.aux"
   "nathpaper.log"

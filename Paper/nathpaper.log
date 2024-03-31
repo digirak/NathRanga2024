@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.6)  31 MAR 2024 11:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.6)  31 MAR 2024 11:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -791,7 +791,7 @@ LaTeX Font Info:    Font shape `T1/txr/b/n' in size <10> not available
 Package hyperref Warning: Suppressing link with empty target on input line 256.
 
 [3]
-<Fig1_Dec_highres_noinbetween.png, id=337, 549.252pt x 578.16pt>
+<Fig1_Dec_highres_noinbetween.png, id=339, 549.252pt x 578.16pt>
 File: Fig1_Dec_highres_noinbetween.png Graphic file (type png)
 <use Fig1_Dec_highres_noinbetween.png>
 Package pdftex.def Info: Fig1_Dec_highres_noinbetween.png  used on input line 314.
@@ -811,12 +811,12 @@ Underfull \vbox (badness 1210) has occurred while \output is active []
 Package hyperref Warning: Suppressing link with empty target on input line 337.
 
 [5 <./Fig1_Dec_highres_noinbetween.png>]
-<c3po.png, id=395, 244.915pt x 1535.7375pt>
+<c3po.png, id=397, 244.915pt x 1535.7375pt>
 File: c3po.png Graphic file (type png)
 <use c3po.png>
 Package pdftex.def Info: c3po.png  used on input line 392.
 (pdftex.def)             Requested size: 67.45833pt x 423.0043pt.
-<clando.png, id=396, 337.26pt x 1407.2575pt>
+<clando.png, id=398, 337.26pt x 1407.2575pt>
 File: clando.png Graphic file (type png)
 <use clando.png>
 Package pdftex.def Info: clando.png  used on input line 393.
@@ -828,7 +828,7 @@ Package hyperref Warning: Suppressing link with empty target on input line 416.
 [6]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<fig_2_dec2023_aligned_cropped.png, id=432, 497.2176pt x 180.675pt>
+<fig_2_dec2023_aligned_cropped.png, id=434, 497.2176pt x 180.675pt>
 File: fig_2_dec2023_aligned_cropped.png Graphic file (type png)
 <use fig_2_dec2023_aligned_cropped.png>
 Package pdftex.def Info: fig_2_dec2023_aligned_cropped.png  used on input line 457.
@@ -850,12 +850,12 @@ Underfull \hbox (badness 2158) in paragraph at lines 502--503
 Package hyperref Warning: Suppressing link with empty target on input line 519.
 
 [8 <./fig_2_dec2023_aligned_cropped.png>]
-<Fig3_Sep2023.png, id=473, 867.24pt x 578.16pt>
+<Fig3_Sep2023.png, id=475, 867.24pt x 578.16pt>
 File: Fig3_Sep2023.png Graphic file (type png)
 <use Fig3_Sep2023.png>
 Package pdftex.def Info: Fig3_Sep2023.png  used on input line 558.
 (pdftex.def)             Requested size: 523.5307pt x 349.0336pt.
-<Fig3_Mar2024_referee.png, id=474, 1011.78pt x 578.16pt>
+<Fig3_Mar2024_referee.png, id=476, 1011.78pt x 578.16pt>
 File: Fig3_Mar2024_referee.png Graphic file (type png)
 <use Fig3_Mar2024_referee.png>
 Package pdftex.def Info: Fig3_Mar2024_referee.png  used on input line 565.
@@ -868,12 +868,12 @@ Underfull \vbox (badness 2343) has occurred while \output is active []
 Package hyperref Warning: Suppressing link with empty target on input line 600.
 
 [9]
-<fig4_dec2023.png, id=490, 578.16pt x 578.16pt>
+<fig4_dec2023.png, id=492, 578.16pt x 578.16pt>
 File: fig4_dec2023.png Graphic file (type png)
 <use fig4_dec2023.png>
 Package pdftex.def Info: fig4_dec2023.png  used on input line 603.
 (pdftex.def)             Requested size: 523.5307pt x 523.55922pt.
-<fig4_Apr2024_referee.png, id=495, 650.43pt x 578.16pt>
+<fig4_Apr2024_referee.png, id=497, 650.43pt x 578.16pt>
 File: fig4_Apr2024_referee.png Graphic file (type png)
 <use fig4_Apr2024_referee.png>
 Package pdftex.def Info: fig4_Apr2024_referee.png  used on input line 614.
@@ -921,17 +921,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Package hyperref Warning: Suppressing link with empty target on input line 688.
 
 [13 <./fig4_Apr2024_referee.png>]
-<fig5_disc_dec2023_cropped.png, id=542, 717.09908pt x 385.01843pt>
+<fig5_disc_dec2023_cropped.png, id=544, 717.09908pt x 385.01843pt>
 File: fig5_disc_dec2023_cropped.png Graphic file (type png)
 <use fig5_disc_dec2023_cropped.png>
 Package pdftex.def Info: fig5_disc_dec2023_cropped.png  used on input line 693.
 (pdftex.def)             Requested size: 523.5307pt x 281.10223pt.
-<Fig6_final_September.png, id=546, 578.16pt x 433.62pt>
+<Fig6_final_September.png, id=548, 578.16pt x 433.62pt>
 File: Fig6_final_September.png Graphic file (type png)
 <use Fig6_final_September.png>
 Package pdftex.def Info: Fig6_final_September.png  used on input line 730.
 (pdftex.def)             Requested size: 523.5307pt x 392.66942pt.
-<Fig6_April2024_referee.png, id=549, 578.16pt x 433.62pt>
+<Fig6_April2024_referee.png, id=551, 578.16pt x 433.62pt>
 File: Fig6_April2024_referee.png Graphic file (type png)
 <use Fig6_April2024_referee.png>
 Package pdftex.def Info: Fig6_April2024_referee.png  used on input line 738.
@@ -957,7 +957,7 @@ Package hyperref Warning: Suppressing link with empty target on input line 75.
 
 [16 <./Fig6_final_September.png>]
 
-Package hyperref Warning: Suppressing link with empty target on input line 192.
+Package hyperref Warning: Suppressing link with empty target on input line 193.
 
 [17 <./Fig6_April2024_referee.png>])
 
@@ -1093,6 +1093,9 @@ Package natbib Warning: Citation `1993Li' multiply defined.
 Package natbib Warning: Citation `2022convLSTM' multiply defined.
 
 
+Package natbib Warning: Citation `Liu2004' multiply defined.
+
+
 Package natbib Warning: Citation `2015MacintoshEridani' multiply defined.
 
 
@@ -1178,18 +1181,18 @@ Package natbib Warning: Citation `2022Zhang' multiply defined.
 
 ) ) 
 Here is how much of TeX's memory you used:
- 16425 strings out of 476025
- 260140 string characters out of 5790017
+ 16429 strings out of 476025
+ 260197 string characters out of 5790017
  1878388 words of memory out of 5000000
- 36414 multiletter control sequences out of 15000+600000
+ 36417 multiletter control sequences out of 15000+600000
  610721 words of font info for 177 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,12n,90p,1536b,742s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 87i,12n,90p,1536b,744s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtcxr.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on nathpaper.pdf (18 pages, 2685542 bytes).
+Output written on nathpaper.pdf (18 pages, 2685726 bytes).
 PDF statistics:
- 691 PDF objects out of 1000 (max. 8388607)
- 608 compressed objects within 7 object streams
- 152 named destinations out of 1000 (max. 500000)
+ 693 PDF objects out of 1000 (max. 8388607)
+ 610 compressed objects within 7 object streams
+ 153 named destinations out of 1000 (max. 500000)
  240 words of extra memory for PDF output out of 10000 (max. 10000000)
 
