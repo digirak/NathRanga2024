@@ -217,42 +217,35 @@ The tensor now has $83$ temporal cubes with $2000$ wavelength bins with $61$ row
 
 \subsection{Injection of simulated \newchange{young gas giant}s in the data}\label{sec: FC insertion}
 
-In this paper we explore the detection of a population of planets which are relatively young (typically a few tens of Myr old) where they still retain a large fraction of their formation entropy, with a $T_{\rm eff}\approx 1000 - 1500$~K.
-Such exoplanets are called \newchange{young gas giant}s because of their \newchange{age} and gas giant composition.
-\newchange{Injection of a new gas giant in the data is carried out using the VIP package.}
-%In order to simulate the presence of a \newchange{young gas giant} in the data we inject a simulated \newchange{young gas giant} at a specific radial distance and position angle (PA) from the frame center.
-\begin{itemize}
-    \item we then multiply the total photon count in the spectrum by factor of the total photon count in the extracted spectrum at the frame center that represents the stellar photon count (this factor is the contrast);
-    \item finally, we chose a pixel and add a PSF-scaled equivalent of the \newchange{young gas giant} spectrum in a FWHM-sized aperture around that pixel.
-\end{itemize}
-In this paper we use the template set provided by the BT-SETTL models \citep{1997Allard, 2011Allard,2003BTsettl}\newchange{,\citep[][]{2003BTsettl}}. 
-We use the substellar templates characterized by their effective temperature ($T_{\rm{eff}}$) and surface gravity ($\log(g)$), and contain detailed spectra which model the atmosphere for brown dwarfs, late M-type stars, and young gas-giant planets or \newchange{young gas giant}s.
-\newchange{young gas giant}s are particularly interesting as they seem to be present in the $5-20$~au distance range \cite{2016Bryan}.
-For this paper we use the models from \newchange{\sout{the}} BT-SETTL \newchange{\sout{family of models 2003BTsettl that}} as \newchange{it allows us} to have a large enough wavelength range in the infrared. 
-With the BT-SETTL models we have access to wavelengths between $1\mu$m to $30\mu$m.
-In order to rule out the possibility of a real \newchange{young gas giant} biasing our tests, the simulated \newchange{young gas giant}s are inserted using the opposite parallactic angles to the ones associated with the data, and these are later used for final derotation of the frames.
-We choose a \newchange{young gas giant} template with a $T_{\rm eff} = 1300$K and a $\log(g)=3.0$.
+In this paper we explore the detection of a population of relatively young giant planets (typically a few tens of Myr old). These planets are assumed to still retain a large fraction of their formation entropy, making them relatively hot with a $T_{\rm eff}\approx 1000 - 1500$~K.
+In order to simulate the presence of a \newchange{young gas giant} in the data, we inject a simulated planet using a template spectrum at a specific radial distance and position angle (PA) from the frame center.
+In this paper we use the template set provided by the BT-SETTL models \citep{1997Allard, 2011Allard,2003BTsettl}.%\newchange{,\citep[][]{2003BTsettl}}. 
+We use substellar templates characterized by their effective temperature ($T_{\rm{eff}}$) and surface gravity ($\log(g)$), containing detailed model spectra for the atmosphere of brown dwarfs, late M-type stars, and young gas-giant planets.
+%\newchange{young gas giant}s are particularly interesting as they seem to be present in the $5-20$~au distance range \cite{2016Bryan}.
+For this paper we use the BT-SETTL models \newchange{\sout{the}} \newchange{\sout{family of models 2003BTsettl that}} as \newchange{they allows us} to have a large enough wavelength range in the infrared, ranging between $1\mu$m and $30\mu$m.
+For most of our test, we choose a \newchange{young gas giant} template with a $T_{\rm eff} = 1300$K and a $\log(g)=3.0$.
 When injecting this template, we follow these steps:
 \begin{enumerate}
-\subsection{Producing cross correlation cubes}\label{sec:specpreproc}
     \item the template is re-sampled to the same spectral resolution as SINFONI and the wavelength range is limited to that of SINFONI, i.e., between $1.4$ to $2.4$ $\mu$m;
     \item we broaden each of the bins in the template spectrum to match the spectral PSF width of the SINFONI instrument (derived from the user manual);
-After injecting fake planets into our 4D IFS data cubes, we now proceed with the computation of the cross correlation, which consists of two steps: (i) reducing the amount of stellar feature contamination in the data, and (ii) cross correlating each spaxel with a similarly pre-processed version of a BT-SETTL planetary template with similar $T_{\rm eff}$ and $\log(g)$ to the one used for the injection.
-The idea of using a similar but not exact template is to avoid a highly optimistic set of cross correlation tensors.
-\newchange{If we use the exact template then it would result in cross correlation cubes that have unrealistically high cross correlation values making our algorithm optimistic. 
-Whereas if we choose a template that is very far away from the inject one (say four grid points away) it might lead to unrealistically low cross correlation values making our algorithm pessimistic.}
-\newchange{Hence, w}e use a template that is two grid points away from the template injected into the cubes.
     \item we remove the spectral bins between $1.8$ $\mu$m and $1.91$ $\mu$m corresponding to the telluric absorption range, and then re-normalize the spectrum so that the total number of photons in each spectrum is $1$;
-    \item we then multiply the total photon count in the spectrum by factor of the total photon count in the extracted spectrum at the frame center that represents the stellar photon count (this factor is the contrast);
-    \item finally, we chose a pixel and add a PSF-scaled equivalent of the \newchange{young gas giant} spectrum in a FWHM-sized aperture around that pixel.
+    \item we then multiply the total photon count in the spectrum by a factor of the total photon count in the spectrum extracted at the located of the star in our IFS data set (this factor is the contrast);
+    \item finally, we chose a target pixel and add a PSF-scaled equivalent of the \newchange{young gas giant} spectrum in a FWHM-sized aperture around that pixel.
 \end{enumerate}
 We use routines from the \textsc{VIP} package to perform the spatial injection at a specified radial separation and position angle, and at a given contrast with respect to the star.
 Every insertion in each temporal cube is done taking into account the parallactic rotation of the frame (or spectral cube in this case).
-In order to rule out the possibility of a real \newchange{young gas giant} biasing our tests, the simulated \newchange{young gas giant}s are inserted using the opposite parallactic angles to the ones associated with the data, and these are later used for final derotation of the frames.
+In order to rule out the possibility of a real \newchange{young gas giant} biasing our tests, the simulated planets are inserted using the opposite parallactic angles to the ones associated with the data, and these are later used for final derotation of the frames.
 
 
-Before computing the cross correlation on each spaxel of our IFS cubes, it is important to first reduce the amount of stellar light in the data. 
-While classical HCI post-processing techniques such as ADI or SDI rely on the spatial structure and behaviour of stellar speckles to remove them from the data, here we rely on the spectral behaviour following the first step of the High Resolution Spectral Differential Imaging (HRSDI) introduced by \citet{2019Haffert}. 
+\subsection{Producing cross-correlation cubes}\label{sec:specpreproc}
+
+After injecting fake planets into our 4D IFS data cubes, we now proceed with the computation of the cross-correlation, which consists of two steps: (i) reducing the amount of stellar feature contamination in the data, and (ii) cross-correlating each spaxel with a similarly pre-processed version of a BT-SETTL planetary template with similar $T_{\rm eff}$ and $\log(g)$ to the one used for the injection.
+The idea of using a similar but not exact same template is to take into account the possible mismatch between BT-SETTL models and real planets, and avoid a too optimistic set of cross-correlation tensors. The chosen templates are typically picked two grid points away from the injected template. This is expected to preserve a relatively high cross-correlation with the injected template, as cross-correlations are not very sensitive to $T_{\rm eff}$ and $\log(g)$. Picking templates further away from the injected template within the BT-SETTL grid may result in unrealistically low cross-correlation values. In practice, when performing planet detection in a yet-undetected planetary system, a large number of templates will generally be used, which is expected to result in relatively high cross-correlation in at least a few cross-correlation tensors. This is the situation that we try to reproduce here.
+%\newchange{If we use the exact template then it would result in cross-correlation cubes that have unrealistically high cross-correlation values making our algorithm optimistic. 
+%Whereas if we choose a template that is very far away from the inject one (say four grid points away) it might lead to unrealistically low cross-correlation values making our algorithm pessimistic.}
+%\newchange{Hence, w}e use a template that is two grid points away from the template injected into the cubes.
+%Two terminologies of note is the word `spaxel' that refers to the spectra associated with the pixel and `extraction of a spectrum' refers to performing aperture photometry on each spaxel and the resultant spectrum is the `extracted' spectrum.
+
 \subsection{Producing cross correlation cubes}\label{sec:specpreproc}
 
 After injecting fake planets into our 4D IFS data cubes, we now proceed with the computation of the cross correlation, which consists of two steps: (i) reducing the amount of stellar feature contamination in the data, and (ii) cross correlating each spaxel with a similarly pre-processed version of a BT-SETTL planetary template with similar $T_{\rm eff}$ and $\log(g)$ to the one used for the injection.
