@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.6)  19 APR 2024 13:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.6)  19 APR 2024 15:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -829,166 +829,177 @@ Package hyperref Warning: Suppressing link with empty target on input line 225.
 
 [7]
 
-Package hyperref Warning: Suppressing link with empty target on input line 250.
+Package hyperref Warning: Suppressing link with empty target on input line 252.
 
 [8]
 
-Package hyperref Warning: Suppressing link with empty target on input line 285.
+LaTeX Warning: Reference `sec:cubeproc' on page 9 undefined on input line 270.
+
+
+Underfull \vbox (badness 2837) has occurred while \output is active []
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 281.
 
 [9]
-<Fig1_Dec_highres_noinbetween.png, id=373, 549.252pt x 578.16pt>
+<Fig1_Dec_highres_noinbetween.png, id=368, 549.252pt x 578.16pt>
 File: Fig1_Dec_highres_noinbetween.png Graphic file (type png)
 <use Fig1_Dec_highres_noinbetween.png>
-Package pdftex.def Info: Fig1_Dec_highres_noinbetween.png  used on input line 297.
+Package pdftex.def Info: Fig1_Dec_highres_noinbetween.png  used on input line 288.
 (pdftex.def)             Requested size: 314.11961pt x 330.64854pt.
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 320.
+Package hyperref Warning: Suppressing link with empty target on input line 304.
 
-[10]
-Underfull \vbox (badness 2012) has occurred while \output is active []
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 338.
-
-[11 <./Fig1_Dec_highres_noinbetween.png>]
+[10 <./Fig1_Dec_highres_noinbetween.png>]
 Underfull \vbox (badness 5374) has occurred while \output is active []
 
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 361.
+Package hyperref Warning: Suppressing link with empty target on input line 329.
+
+[11]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 353.
 
 [12]
-<c3po.png, id=431, 244.915pt x 1535.7375pt>
+<c3po.png, id=426, 244.915pt x 1535.7375pt>
 File: c3po.png Graphic file (type png)
 <use c3po.png>
-Package pdftex.def Info: c3po.png  used on input line 372.
+Package pdftex.def Info: c3po.png  used on input line 363.
 (pdftex.def)             Requested size: 67.45833pt x 423.0043pt.
-<clando.png, id=432, 337.26pt x 1407.2575pt>
+<clando.png, id=427, 337.26pt x 1407.2575pt>
 File: clando.png Graphic file (type png)
 <use clando.png>
-Package pdftex.def Info: clando.png  used on input line 373.
+Package pdftex.def Info: clando.png  used on input line 364.
 (pdftex.def)             Requested size: 92.92432pt x 387.75215pt.
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 396.
+Package hyperref Warning: Suppressing link with empty target on input line 406.
 
 [13]
-Underfull \vbox (badness 3872) has occurred while \output is active []
 
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 415.
+Package hyperref Warning: Suppressing link with empty target on input line 406.
 
 [14 <./c3po.png> <./clando.png>]
-<fig_2_dec2023_aligned_cropped.png, id=472, 497.2176pt x 180.675pt>
+<fig_2_dec2023_aligned_cropped.png, id=468, 497.2176pt x 180.675pt>
 File: fig_2_dec2023_aligned_cropped.png Graphic file (type png)
 <use fig_2_dec2023_aligned_cropped.png>
-Package pdftex.def Info: fig_2_dec2023_aligned_cropped.png  used on input line 423.
+Package pdftex.def Info: fig_2_dec2023_aligned_cropped.png  used on input line 414.
 (pdftex.def)             Requested size: 392.64803pt x 142.6848pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 3713) has occurred while \output is active []
 
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 439.
+Package hyperref Warning: Suppressing link with empty target on input line 429.
 
-[15]
+[15 <./fig_2_dec2023_aligned_cropped.png>]
 
-Package hyperref Warning: Suppressing link with empty target on input line 458.
+Package hyperref Warning: Suppressing link with empty target on input line 457.
 
-[16 <./fig_2_dec2023_aligned_cropped.png>]
+[16]
 
-Package hyperref Warning: Suppressing link with empty target on input line 488.
+Package hyperref Warning: Suppressing link with empty target on input line 486.
 
 [17]
-<Fig3_Mar2024_referee.png, id=507, 1011.78pt x 578.16pt>
+<Fig3_Mar2024_referee.png, id=502, 1011.78pt x 578.16pt>
 File: Fig3_Mar2024_referee.png Graphic file (type png)
 <use Fig3_Mar2024_referee.png>
-Package pdftex.def Info: Fig3_Mar2024_referee.png  used on input line 509.
+Package pdftex.def Info: Fig3_Mar2024_referee.png  used on input line 500.
 (pdftex.def)             Requested size: 392.64803pt x 224.36992pt.
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 523.
+Package hyperref Warning: Suppressing link with empty target on input line 514.
 
-[18]
+[18 <./Fig3_Mar2024_referee.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 546.
+Package hyperref Warning: Suppressing link with empty target on input line 538.
 
-[19 <./Fig3_Mar2024_referee.png>]
-<Fig4_Apr2024_referee_final.png, id=531, 650.43pt x 578.16pt>
+[19]
+<Fig4_Apr2024_referee_final.png, id=526, 650.43pt x 578.16pt>
 File: Fig4_Apr2024_referee_final.png Graphic file (type png)
 <use Fig4_Apr2024_referee_final.png>
-Package pdftex.def Info: Fig4_Apr2024_referee_final.png  used on input line 551.
+Package pdftex.def Info: Fig4_Apr2024_referee_final.png  used on input line 542.
 (pdftex.def)             Requested size: 392.64803pt x 349.02478pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 563--563
+Underfull \hbox (badness 10000) in paragraph at lines 554--554
 [][][][]$\T1/txtt/m/n/9 https : / / vip . readthedocs . io / en / latest / _modules / vip _ hci / metrics / roc . html ?
  []
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 573.
-
-[20]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 583.
+Package hyperref Warning: Suppressing link with empty target on input line 564.
 
-[21 <./Fig4_Apr2024_referee_final.png>]
+[20 <./Fig4_Apr2024_referee_final.png>]
+
+Package hyperref Warning: Suppressing link with empty target on input line 587.
+
+[21]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 615.
+
+[22]
+<fig5_disc_dec2023_cropped.png, id=563, 717.09908pt x 385.01843pt>
+File: fig5_disc_dec2023_cropped.png Graphic file (type png)
+<use fig5_disc_dec2023_cropped.png>
+Package pdftex.def Info: fig5_disc_dec2023_cropped.png  used on input line 620.
+(pdftex.def)             Requested size: 392.64803pt x 210.81493pt.
+
+Underfull \vbox (badness 2961) has occurred while \output is active []
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 644.
+
+[23 <./fig5_disc_dec2023_cropped.png>]
+<Fig6_April2024_referee_final.png, id=572, 578.16pt x 433.62pt>
+File: Fig6_April2024_referee_final.png Graphic file (type png)
+<use Fig6_April2024_referee_final.png>
+Package pdftex.def Info: Fig6_April2024_referee_final.png  used on input line 651.
+(pdftex.def)             Requested size: 392.64803pt x 294.48717pt.
+
 Underfull \vbox (badness 5374) has occurred while \output is active []
 
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 608.
+Package hyperref Warning: Suppressing link with empty target on input line 669.
 
-[22]
-<fig5_disc_dec2023_cropped.png, id=568, 717.09908pt x 385.01843pt>
-File: fig5_disc_dec2023_cropped.png Graphic file (type png)
-<use fig5_disc_dec2023_cropped.png>
-Package pdftex.def Info: fig5_disc_dec2023_cropped.png  used on input line 629.
-(pdftex.def)             Requested size: 392.64803pt x 210.81493pt.
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 653.
-
-[23]
-<Fig6_April2024_referee_final.png, id=577, 578.16pt x 433.62pt>
-File: Fig6_April2024_referee_final.png Graphic file (type png)
-<use Fig6_April2024_referee_final.png>
-Package pdftex.def Info: Fig6_April2024_referee_final.png  used on input line 660.
-(pdftex.def)             Requested size: 392.64803pt x 294.48717pt.
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 678.
-
-[24 <./fig5_disc_dec2023_cropped.png>]
+[24]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 688.
+Package hyperref Warning: Suppressing link with empty target on input line 679.
 
 [25 <./Fig6_April2024_referee_final.png>]
 
-Package hyperref Warning: Suppressing link with empty target on input line 703.
+Package hyperref Warning: Suppressing link with empty target on input line 700.
 
 [26] (./nathpaper_referee.bbl
 
-Package hyperref Warning: Suppressing link with empty target on input line 12.
+Package hyperref Warning: Suppressing link with empty target on input line 37.
 
 [27]
 
-Package hyperref Warning: Suppressing link with empty target on input line 148.
+Package hyperref Warning: Suppressing link with empty target on input line 184.
 
 [28])
 
-Package hyperref Warning: Suppressing link with empty target on input line 795.
+Package hyperref Warning: Suppressing link with empty target on input line 786.
 
 [29] (./nathpaper_referee.aux
 
@@ -1201,20 +1212,24 @@ Package natbib Warning: Citation `1990ZhangCNN' multiply defined.
 
 Package natbib Warning: Citation `2022Zhang' multiply defined.
 
-) ) 
+)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 16491 strings out of 476025
- 261339 string characters out of 5790017
- 1874388 words of memory out of 5000000
- 36465 multiletter control sequences out of 15000+600000
+ 16489 strings out of 476025
+ 261309 string characters out of 5790017
+ 1875388 words of memory out of 5000000
+ 36464 multiletter control sequences out of 15000+600000
  610381 words of font info for 178 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,12n,90p,1548b,716s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 87i,12n,90p,1548b,740s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtcxr.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on nathpaper_referee.pdf (29 pages, 2171571 bytes).
+Output written on nathpaper_referee.pdf (29 pages, 2175605 bytes).
 PDF statistics:
- 723 PDF objects out of 1000 (max. 8388607)
- 637 compressed objects within 7 object streams
- 162 named destinations out of 1000 (max. 500000)
- 233 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 718 PDF objects out of 1000 (max. 8388607)
+ 632 compressed objects within 7 object streams
+ 161 named destinations out of 1000 (max. 500000)
+ 225 words of extra memory for PDF output out of 10000 (max. 10000000)
 

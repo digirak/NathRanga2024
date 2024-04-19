@@ -223,15 +223,6 @@ The idea of using a similar but not exact same template is to take into account 
 \newchange{The chosen templates are typically picked two grid points away from the injected template. This is expected to preserve a relatively high cross-correlation with the injected template, as cross-correlations are not very sensitive to $T_{\rm eff}$ and $\log(g)$. 
 Picking templates further away from the injected template within the BT-SETTL grid may result in unrealistically low cross-correlation values. In practice, when performing planet detection in a yet-undetected planetary system, a large number of templates will generally be used, which is expected to result in relatively high cross-correlation in at least a few cross-correlation tensors. This is the situation that we try to reproduce here.}
 
-\subsection{Producing cross correlation cubes}\label{sec:cubeproc}
-
-After injecting fake planets into our 4D IFS data cubes, we now proceed with the computation of the cross correlation, which consists of two steps: (i) reducing the amount of stellar feature contamination in the data, and (ii) cross correlating each spaxel with a similarly pre-processed version of a BT-SETTL planetary template with similar $T_{\rm eff}$ and $\log(g)$ to the one used for the injection.
-The idea of using a similar but not exact template is to avoid a highly optimistic set of cross correlation tensors.
-\newchange{If we use the exact template then it would result in cross correlation cubes that have unrealistically high cross correlation values making our algorithm optimistic. 
-Whereas if we choose a template that is very far away from the injected one (say four grid points away) it might lead to unrealistically low cross correlation values making our algorithm pessimistic.}
-\newchange{Hence, w}e use a template that is two grid points away from the template injected into the cubes.
-%Two terminologies of note is the word `spaxel' that refers to the spectra associated with the pixel and `extraction of a spectrum' refers to performing aperture photometry on each spaxel and the resultant spectrum is the `extracted' spectrum.
-
 \subsubsection{Stellar spectral feature subtraction}
 
 To remove any lower order residual contamination, we compute \newchange{the spectrum filtered using the Savitzky-Golay filter \citep{1964SavitzkyGolay}} with a window size of $101$ and subtract it from the extracted spectrum. The original spectrum is then replaced by this residual spectrum at the same pixel.
