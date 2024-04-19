@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.6)  10 APR 2024 09:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.6)  19 APR 2024 13:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -605,40 +605,40 @@ File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 ) (./nathpaper_referee.aux)
 \openout1 = `nathpaper_referee.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 52.
-LaTeX Font Info:    Trying to load font information for OML+txmi on input line 52.
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 55.
+LaTeX Font Info:    Trying to load font information for OML+txmi on input line 55.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/txfonts/omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 52.
-LaTeX Font Info:    Trying to load font information for OMS+txsy on input line 52.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 55.
+LaTeX Font Info:    Trying to load font information for OMS+txsy on input line 55.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/txfonts/omstxsy.fd
 File: omstxsy.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 52.
-LaTeX Font Info:    Trying to load font information for OMX+txex on input line 52.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 55.
+LaTeX Font Info:    Trying to load font information for OMX+txex on input line 55.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/txfonts/omxtxex.fd
 File: omxtxex.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 52.
-LaTeX Font Info:    Trying to load font information for U+txexa on input line 52.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 55.
+LaTeX Font Info:    Trying to load font information for U+txexa on input line 55.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/txfonts/utxexa.fd
 File: utxexa.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
  (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count327
@@ -694,7 +694,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 52.
+Package hyperref Info: Link coloring OFF on input line 55.
 (./nathpaper_referee.out) (./nathpaper_referee.out)
 \@outlinefile=\write3
 \openout3 = `nathpaper_referee.out'.
@@ -704,128 +704,128 @@ Package hyperref Info: Link coloring OFF on input line 52.
 
 IMPORTANT
 
-Class aa Warning: Around 386 words in the abstract instead of 300 (max). You should rewrite your abstract on input line 90.
+Class aa Warning: Around 386 words in the abstract instead of 300 (max). You should rewrite your abstract on input line 93.
 
 IMPORTANT 
 
-LaTeX Font Info:    Trying to load font information for TS1+txr on input line 99.
+LaTeX Font Info:    Trying to load font information for TS1+txr on input line 102.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/txfonts/ts1txr.fd
 File: ts1txr.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for OT1+txr on input line 99.
+LaTeX Font Info:    Trying to load font information for OT1+txr on input line 102.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/txfonts/ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for U+txsya on input line 99.
+LaTeX Font Info:    Trying to load font information for U+txsya on input line 102.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/txfonts/utxsya.fd
 File: utxsya.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for U+txsyb on input line 99.
+LaTeX Font Info:    Trying to load font information for U+txsyb on input line 102.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/txfonts/utxsyb.fd
 File: utxsyb.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for U+txmia on input line 99.
+LaTeX Font Info:    Trying to load font information for U+txmia on input line 102.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/txfonts/utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Trying to load font information for U+txsyc on input line 99.
+LaTeX Font Info:    Trying to load font information for U+txsyc on input line 102.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
 )
-Overfull \hbox (28.30006pt too wide) in paragraph at lines 95--99
+Overfull \hbox (28.30006pt too wide) in paragraph at lines 98--102
 [][] []      [] 
  []
 
-LaTeX Font Info:    Trying to load font information for T1+txss on input line 99.
+LaTeX Font Info:    Trying to load font information for T1+txss on input line 102.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/txfonts/t1txss.fd
 File: t1txss.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `T1/txss/m/n' will be
-(Font)              scaled to size 16.41594pt on input line 99.
+(Font)              scaled to size 16.41594pt on input line 102.
 LaTeX Font Info:    Font shape `T1/txss/b/n' in size <17.28> not available
-(Font)              Font shape `T1/txss/bx/n' tried instead on input line 99.
+(Font)              Font shape `T1/txss/bx/n' tried instead on input line 102.
 LaTeX Font Info:    Font shape `T1/txss/bx/n' will be
-(Font)              scaled to size 16.41594pt on input line 99.
+(Font)              scaled to size 16.41594pt on input line 102.
 LaTeX Font Info:    Font shape `T1/txss/m/n' will be
-(Font)              scaled to size 13.67995pt on input line 99.
+(Font)              scaled to size 13.67995pt on input line 102.
 LaTeX Font Info:    Font shape `T1/txss/b/n' in size <14.4> not available
-(Font)              Font shape `T1/txss/bx/n' tried instead on input line 99.
+(Font)              Font shape `T1/txss/bx/n' tried instead on input line 102.
 LaTeX Font Info:    Font shape `T1/txss/bx/n' will be
-(Font)              scaled to size 13.67995pt on input line 99.
-LaTeX Font Info:    Trying to load font information for T1+txtt on input line 99.
+(Font)              scaled to size 13.67995pt on input line 102.
+LaTeX Font Info:    Trying to load font information for T1+txtt on input line 102.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/txfonts/t1txtt.fd
 File: t1txtt.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `T1/txss/m/n' will be
-(Font)              scaled to size 8.54997pt on input line 99.
+(Font)              scaled to size 8.54997pt on input line 102.
 LaTeX Font Info:    Font shape `T1/txss/b/n' in size <9> not available
-(Font)              Font shape `T1/txss/bx/n' tried instead on input line 99.
+(Font)              Font shape `T1/txss/bx/n' tried instead on input line 102.
 LaTeX Font Info:    Font shape `T1/txss/bx/n' will be
-(Font)              scaled to size 8.54997pt on input line 99.
+(Font)              scaled to size 8.54997pt on input line 102.
 LaTeX Font Info:    Font shape `T1/txss/m/it' in size <9> not available
-(Font)              Font shape `T1/txss/m/sl' tried instead on input line 99.
+(Font)              Font shape `T1/txss/m/sl' tried instead on input line 102.
 LaTeX Font Info:    Font shape `T1/txss/m/sl' will be
-(Font)              scaled to size 8.54997pt on input line 99.
+(Font)              scaled to size 8.54997pt on input line 102.
 
 
 Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is useless.
-(fancyhdr)                Please consider using the `twoside' option on input line 99.
+(fancyhdr)                Please consider using the `twoside' option on input line 102.
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 99.
+Package hyperref Warning: Suppressing link with empty target on input line 102.
 
 [1
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}]
 LaTeX Font Info:    Font shape `T1/txss/m/n' will be
-(Font)              scaled to size 10.40245pt on input line 99.
+(Font)              scaled to size 10.40245pt on input line 102.
 LaTeX Font Info:    Font shape `T1/txss/b/n' in size <10.95> not available
-(Font)              Font shape `T1/txss/bx/n' tried instead on input line 99.
+(Font)              Font shape `T1/txss/bx/n' tried instead on input line 102.
 LaTeX Font Info:    Font shape `T1/txss/bx/n' will be
-(Font)              scaled to size 10.40245pt on input line 99.
+(Font)              scaled to size 10.40245pt on input line 102.
 
-Overfull \hbox (20.97148pt too wide) in paragraph at lines 104--105
+Overfull \hbox (20.97148pt too wide) in paragraph at lines 107--108
 []\T1/txr/m/n/10 Direct imag-ing com-bined with low-resolution in-te-gral field spec-tro-graphs (IFS) such as in VLT/SPHERE
  []
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 115.
+Package hyperref Warning: Suppressing link with empty target on input line 118.
 
 [2]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 135.
+Package hyperref Warning: Suppressing link with empty target on input line 138.
 
 [3]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 149.
+Package hyperref Warning: Suppressing link with empty target on input line 152.
 
 [4]
 LaTeX Font Info:    Font shape `T1/txss/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 155.
+(Font)              scaled to size 9.49997pt on input line 158.
 LaTeX Font Info:    Font shape `T1/txss/m/it' in size <10> not available
-(Font)              Font shape `T1/txss/m/sl' tried instead on input line 155.
+(Font)              Font shape `T1/txss/m/sl' tried instead on input line 158.
 LaTeX Font Info:    Font shape `T1/txss/m/sl' will be
-(Font)              scaled to size 9.49997pt on input line 155.
+(Font)              scaled to size 9.49997pt on input line 158.
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 173.
+Package hyperref Warning: Suppressing link with empty target on input line 175.
 
 [5]
 LaTeX Font Info:    Font shape `T1/txr/b/n' in size <10> not available
-(Font)              Font shape `T1/txr/bx/n' tried instead on input line 173.
+(Font)              Font shape `T1/txr/bx/n' tried instead on input line 176.
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 206.
+Package hyperref Warning: Suppressing link with empty target on input line 208.
 
 [6]
 
-Package hyperref Warning: Suppressing link with empty target on input line 226.
+Package hyperref Warning: Suppressing link with empty target on input line 225.
 
 [7]
 
@@ -833,191 +833,164 @@ Package hyperref Warning: Suppressing link with empty target on input line 250.
 
 [8]
 
-Package hyperref Warning: Suppressing link with empty target on input line 288.
+Package hyperref Warning: Suppressing link with empty target on input line 285.
 
 [9]
-<Fig1_Dec_highres_noinbetween.png, id=372, 549.252pt x 578.16pt>
+<Fig1_Dec_highres_noinbetween.png, id=373, 549.252pt x 578.16pt>
 File: Fig1_Dec_highres_noinbetween.png Graphic file (type png)
 <use Fig1_Dec_highres_noinbetween.png>
-Package pdftex.def Info: Fig1_Dec_highres_noinbetween.png  used on input line 300.
+Package pdftex.def Info: Fig1_Dec_highres_noinbetween.png  used on input line 297.
 (pdftex.def)             Requested size: 314.11961pt x 330.64854pt.
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 317.
+Package hyperref Warning: Suppressing link with empty target on input line 320.
 
 [10]
-Underfull \vbox (badness 1412) has occurred while \output is active []
+Underfull \vbox (badness 2012) has occurred while \output is active []
 
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 341.
+Package hyperref Warning: Suppressing link with empty target on input line 338.
 
 [11 <./Fig1_Dec_highres_noinbetween.png>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 5374) has occurred while \output is active []
 
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 364.
+Package hyperref Warning: Suppressing link with empty target on input line 361.
 
 [12]
-<c3po.png, id=430, 244.915pt x 1535.7375pt>
+<c3po.png, id=431, 244.915pt x 1535.7375pt>
 File: c3po.png Graphic file (type png)
 <use c3po.png>
-Package pdftex.def Info: c3po.png  used on input line 375.
+Package pdftex.def Info: c3po.png  used on input line 372.
 (pdftex.def)             Requested size: 67.45833pt x 423.0043pt.
-<clando.png, id=431, 337.26pt x 1407.2575pt>
+<clando.png, id=432, 337.26pt x 1407.2575pt>
 File: clando.png Graphic file (type png)
 <use clando.png>
-Package pdftex.def Info: clando.png  used on input line 376.
+Package pdftex.def Info: clando.png  used on input line 373.
 (pdftex.def)             Requested size: 92.92432pt x 387.75215pt.
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 398.
+Package hyperref Warning: Suppressing link with empty target on input line 396.
 
 [13]
+Underfull \vbox (badness 3872) has occurred while \output is active []
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 415.
+
+[14 <./c3po.png> <./clando.png>]
+<fig_2_dec2023_aligned_cropped.png, id=472, 497.2176pt x 180.675pt>
+File: fig_2_dec2023_aligned_cropped.png Graphic file (type png)
+<use fig_2_dec2023_aligned_cropped.png>
+Package pdftex.def Info: fig_2_dec2023_aligned_cropped.png  used on input line 423.
+(pdftex.def)             Requested size: 392.64803pt x 142.6848pt.
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 399.
-
-[14 <./c3po.png> <./clando.png>]
-<fig_2_dec2023_aligned_cropped.png, id=468, 497.2176pt x 180.675pt>
-File: fig_2_dec2023_aligned_cropped.png Graphic file (type png)
-<use fig_2_dec2023_aligned_cropped.png>
-Package pdftex.def Info: fig_2_dec2023_aligned_cropped.png  used on input line 426.
-(pdftex.def)             Requested size: 392.64803pt x 142.6848pt.
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 441.
+Package hyperref Warning: Suppressing link with empty target on input line 439.
 
 [15]
 
-Package hyperref Warning: Suppressing link with empty target on input line 461.
+Package hyperref Warning: Suppressing link with empty target on input line 458.
 
 [16 <./fig_2_dec2023_aligned_cropped.png>]
 
-Package hyperref Warning: Suppressing link with empty target on input line 491.
+Package hyperref Warning: Suppressing link with empty target on input line 488.
 
 [17]
-<Fig3_Sep2023.png, id=506, 867.24pt x 578.16pt>
-File: Fig3_Sep2023.png Graphic file (type png)
-<use Fig3_Sep2023.png>
-Package pdftex.def Info: Fig3_Sep2023.png  used on input line 512.
-(pdftex.def)             Requested size: 392.64803pt x 261.76637pt.
 <Fig3_Mar2024_referee.png, id=507, 1011.78pt x 578.16pt>
 File: Fig3_Mar2024_referee.png Graphic file (type png)
 <use Fig3_Mar2024_referee.png>
-Package pdftex.def Info: Fig3_Mar2024_referee.png  used on input line 519.
+Package pdftex.def Info: Fig3_Mar2024_referee.png  used on input line 509.
 (pdftex.def)             Requested size: 392.64803pt x 224.36992pt.
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 533.
+Package hyperref Warning: Suppressing link with empty target on input line 523.
 
 [18]
-
-Package hyperref Warning: Suppressing link with empty target on input line 533.
-
-[19 <./Fig3_Sep2023.png> <./Fig3_Mar2024_referee.png>]
-Underfull \vbox (badness 2261) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 558.
+Package hyperref Warning: Suppressing link with empty target on input line 546.
 
-[20]
-<fig4_dec2023.png, id=537, 578.16pt x 578.16pt>
-File: fig4_dec2023.png Graphic file (type png)
-<use fig4_dec2023.png>
-Package pdftex.def Info: fig4_dec2023.png  used on input line 561.
-(pdftex.def)             Requested size: 392.64803pt x 392.64957pt.
-<Fig4_Apr2024_referee_final.png, id=538, 650.43pt x 578.16pt>
+[19 <./Fig3_Mar2024_referee.png>]
+<Fig4_Apr2024_referee_final.png, id=531, 650.43pt x 578.16pt>
 File: Fig4_Apr2024_referee_final.png Graphic file (type png)
 <use Fig4_Apr2024_referee_final.png>
-Package pdftex.def Info: Fig4_Apr2024_referee_final.png  used on input line 568.
+Package pdftex.def Info: Fig4_Apr2024_referee_final.png  used on input line 551.
 (pdftex.def)             Requested size: 392.64803pt x 349.02478pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 580--580
+Underfull \hbox (badness 10000) in paragraph at lines 563--563
 [][][][]$\T1/txtt/m/n/9 https : / / vip . readthedocs . io / en / latest / _modules / vip _ hci / metrics / roc . html ?
  []
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 590.
+Package hyperref Warning: Suppressing link with empty target on input line 573.
 
-[21 <./fig4_dec2023.png>]
+[20]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 594.
+Package hyperref Warning: Suppressing link with empty target on input line 583.
 
-[22 <./Fig4_Apr2024_referee_final.png>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[21 <./Fig4_Apr2024_referee_final.png>]
+Underfull \vbox (badness 5374) has occurred while \output is active []
 
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 625.
+Package hyperref Warning: Suppressing link with empty target on input line 608.
 
-[23]
-<fig5_disc_dec2023_cropped.png, id=577, 717.09908pt x 385.01843pt>
+[22]
+<fig5_disc_dec2023_cropped.png, id=568, 717.09908pt x 385.01843pt>
 File: fig5_disc_dec2023_cropped.png Graphic file (type png)
 <use fig5_disc_dec2023_cropped.png>
-Package pdftex.def Info: fig5_disc_dec2023_cropped.png  used on input line 646.
+Package pdftex.def Info: fig5_disc_dec2023_cropped.png  used on input line 629.
 (pdftex.def)             Requested size: 392.64803pt x 210.81493pt.
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 670.
+Package hyperref Warning: Suppressing link with empty target on input line 653.
 
-[24]
-<Fig6_final_September.png, id=585, 578.16pt x 433.62pt>
-File: Fig6_final_September.png Graphic file (type png)
-<use Fig6_final_September.png>
-Package pdftex.def Info: Fig6_final_September.png  used on input line 678.
-(pdftex.def)             Requested size: 392.64803pt x 294.48717pt.
-
-Underfull \vbox (badness 2495) has occurred while \output is active []
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 687.
-
-[25 <./fig5_disc_dec2023_cropped.png>]
-<Fig6_April2024_referee_final.png, id=592, 578.16pt x 433.62pt>
+[23]
+<Fig6_April2024_referee_final.png, id=577, 578.16pt x 433.62pt>
 File: Fig6_April2024_referee_final.png Graphic file (type png)
 <use Fig6_April2024_referee_final.png>
-Package pdftex.def Info: Fig6_April2024_referee_final.png  used on input line 690.
+Package pdftex.def Info: Fig6_April2024_referee_final.png  used on input line 660.
 (pdftex.def)             Requested size: 392.64803pt x 294.48717pt.
 
-Underfull \vbox (badness 1275) has occurred while \output is active []
 
+Package hyperref Warning: Suppressing link with empty target on input line 678.
 
-
-Package hyperref Warning: Suppressing link with empty target on input line 718.
-
-[26 <./Fig6_final_September.png>]
+[24 <./fig5_disc_dec2023_cropped.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 721.
+Package hyperref Warning: Suppressing link with empty target on input line 688.
 
-[27 <./Fig6_April2024_referee_final.png>]
+[25 <./Fig6_April2024_referee_final.png>]
 
-Package hyperref Warning: Suppressing link with empty target on input line 757.
+Package hyperref Warning: Suppressing link with empty target on input line 703.
 
-[28] (./nathpaper_referee.bbl
+[26] (./nathpaper_referee.bbl
 
-Package hyperref Warning: Suppressing link with empty target on input line 67.
+Package hyperref Warning: Suppressing link with empty target on input line 12.
 
-[29]
+[27]
 
-Package hyperref Warning: Suppressing link with empty target on input line 208.
+Package hyperref Warning: Suppressing link with empty target on input line 148.
 
-[30])
+[28])
 
-Package hyperref Warning: Suppressing link with empty target on input line 825.
+Package hyperref Warning: Suppressing link with empty target on input line 795.
 
-[31] (./nathpaper_referee.aux
+[29] (./nathpaper_referee.aux
 
 Package natbib Warning: Citation `2006Abuter' multiply defined.
 
@@ -1230,18 +1203,18 @@ Package natbib Warning: Citation `2022Zhang' multiply defined.
 
 ) ) 
 Here is how much of TeX's memory you used:
- 16516 strings out of 476025
- 261874 string characters out of 5790017
- 1875388 words of memory out of 5000000
- 36482 multiletter control sequences out of 15000+600000
+ 16491 strings out of 476025
+ 261339 string characters out of 5790017
+ 1874388 words of memory out of 5000000
+ 36465 multiletter control sequences out of 15000+600000
  610381 words of font info for 178 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,12n,90p,1548b,756s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 87i,12n,90p,1548b,716s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtcxr.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on nathpaper_referee.pdf (31 pages, 3095472 bytes).
+Output written on nathpaper_referee.pdf (29 pages, 2171571 bytes).
 PDF statistics:
- 741 PDF objects out of 1000 (max. 8388607)
- 647 compressed objects within 7 object streams
- 167 named destinations out of 1000 (max. 500000)
- 248 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 723 PDF objects out of 1000 (max. 8388607)
+ 637 compressed objects within 7 object streams
+ 162 named destinations out of 1000 (max. 500000)
+ 233 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex nathpaper_referee"] 1712732728 "nathpaper_referee.aux" "nathpaper_referee.bbl" "nathpaper_referee" 1712732740 0
+["bibtex nathpaper_referee"] 1713519522 "nathpaper_referee.aux" "nathpaper_referee.bbl" "nathpaper_referee" 1713524815 0
   "./aa.bst" 1711876359 32101 d07be6eccf1293b463b353311acc9bc2 ""
   "./references_oab.bib" 1712507049 108427 fae94eb03b5cd21cd25aab449cedd9ac ""
-  "nathpaper_referee.aux" 1712732739 36958 634df76987cf398c19df47d0e426265d "pdflatex"
+  "nathpaper_referee.aux" 1713524814 36942 6581b4f16ebaa3e52a6ad88d483a3b92 "pdflatex"
   (generated)
   "nathpaper_referee.bbl"
   "nathpaper_referee.blg"
   (rewritten before read)
-["pdflatex"] 1712732729 "/Users/rakesh/Documents/GitHub/NathRanga2024/Paper/nathpaper_referee.tex" "nathpaper_referee.pdf" "nathpaper_referee" 1712732740 0
-  "/Users/rakesh/Documents/GitHub/NathRanga2024/Paper/nathpaper_referee.tex" 1712732693 104026 ed6bb28ecb4765e2521d3573f9bdbaaa ""
+["pdflatex"] 1713524806 "/Users/rakesh/Documents/GitHub/NathRanga2024/Paper/nathpaper_referee.tex" "nathpaper_referee.pdf" "nathpaper_referee" 1713524815 0
+  "/Users/rakesh/Documents/GitHub/NathRanga2024/Paper/nathpaper_referee.tex" 1713524805 100067 6269a94e91051d2540a2049bf9fba758 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/ecrm1000.tfm" 1136768653 3584 adb004a0c8e7c46ee66cad73671f37b4 ""
@@ -172,20 +172,17 @@
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
   "Fig1_Dec_highres_noinbetween.png" 1711876358 244707 855ee7fe46969e51169ed5914893a005 ""
   "Fig3_Mar2024_referee.png" 1711876358 328346 989270c68c3a4b9743c1bcad2faec2c1 ""
-  "Fig3_Sep2023.png" 1711876358 277814 be4bb3caf606ec438f971362d7de3242 ""
   "Fig4_Apr2024_referee_final.png" 1712320730 709243 df313fd706619fe578f262f32b8654ee ""
   "Fig6_April2024_referee_final.png" 1712320230 304497 6b137ac77478a326b332a72c667c9a5b ""
-  "Fig6_final_September.png" 1711876359 365330 d2940578ce75c60bf4ef8b100d1a5bf1 ""
   "aa.cls" 1711876359 63263 f72bc882d377d24b944742febd5e720d ""
   "c3po.png" 1711876359 74172 17449f5590db97d597a2326adff3365e ""
   "clando.png" 1711876359 80803 3d46210ff1c00ed509f9967b47fe5903 ""
-  "fig4_dec2023.png" 1711876359 433050 b9e9a02201b137fabea2f84dc50e1564 ""
   "fig5_disc_dec2023_cropped.png" 1711876359 281752 d18870148130bd26984af54654c5d719 ""
   "fig_2_dec2023_aligned_cropped.png" 1711876359 235215 dd7ad56d7a67cf56be468d1c5242450d ""
-  "nathpaper_referee.aux" 1712732739 36958 634df76987cf398c19df47d0e426265d "pdflatex"
-  "nathpaper_referee.bbl" 1712732729 24235 7164391ef2f8eb9c2721788d24c7c052 "bibtex nathpaper_referee"
-  "nathpaper_referee.out" 1712732739 5455 ca0bc1aede2ff429615ef9f62b3ee5e0 "pdflatex"
-  "nathpaper_referee.tex" 1712732693 104026 ed6bb28ecb4765e2521d3573f9bdbaaa ""
+  "nathpaper_referee.aux" 1713524814 36942 6581b4f16ebaa3e52a6ad88d483a3b92 "pdflatex"
+  "nathpaper_referee.bbl" 1713519522 24235 7164391ef2f8eb9c2721788d24c7c052 "bibtex nathpaper_referee"
+  "nathpaper_referee.out" 1713524814 5455 ca0bc1aede2ff429615ef9f62b3ee5e0 "pdflatex"
+  "nathpaper_referee.tex" 1713524805 100067 6269a94e91051d2540a2049bf9fba758 ""
   (generated)
   "nathpaper_referee.aux"
   "nathpaper_referee.log"

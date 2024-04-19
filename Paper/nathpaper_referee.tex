@@ -28,7 +28,10 @@
 
 % Define a new command for highlighting new changes in darkgreen
 \definecolor{darkgreen}{RGB}{0,100,0}
-\newcommand{\newchange}[1]{\textcolor{darkgreen}{#1}}
+\definecolor{skyblue}{RGB}{135,206,235}
+\definecolor{orange}{RGB}{255,165,0}
+\definecolor{magenta}{RGB}{255,0,255}
+\newcommand{\newchange}[1]{\textcolor{magenta}{#1}}
 \usepackage[breaklinks=true]{hyperref} %% to avoid \citeads line fills
 \bibpunct{(}{)}{;}{a}{}{,}             %% natbib format for A&A and ApJ
 \makeatletter
@@ -100,7 +103,7 @@
 %general intro to direct imaging and the use of spectra in direct imaging and exoplanet detection
 \newchange{Direct imaging combined with low-resolution integral field spectrographs (IFS) such as in VLT/SPHERE \citep{2019Beuzit}, Gemini/GPI \citep{2014MacintoshGPI}, and Subaru/CHARIS \citep{Groff2015}, or with medium-resolution IFS such as in VLT/SINFONI \citep{2004SINFONI}, VLT/ERIS \citep{2023Davies}, and Keck/OSIRIS \citep{2000OSIRIS}, allows exoplanet hunters to access both images and infrared spectra of sub-stellar companions around nearby stars.
 Since the advent of such IFS instruments, their combination with high-contrast imaging techniques has strongly contributed to the direct detection of young gas giants such as PDS\,70b \citep{2018KepplerPDS70}, or 51\,Eridani\,b \citep{2015MacintoshEridani}.
-In addition, the spectral dimension provided by those IFS has allowed us to characterize directly imaged exoplanets such as HR\,8799bcde \citep[e.g.,][]{2013Konopacky,Bonnefoy2016}, $\beta$\,Pic\,b \citep[e.g.,][]{Bonnefoy2014,2017ChilcoteBetapic}, HD\,206893b \citep[e.g.,][]{2017DelormeHD206893b}, PDS\,70b \citep[e.g][]{2018MullerPDS70,2019ChristiaensPDS70}, or HIP\,99770b \citep[][]{2023Currie}, and has provided clues on the nature of various substellar companions such as HD142527B \citep[e.g.,][]{2018A&ChristiaensHD142527} or CrA\,9b \citep[][]{2021ChristiaensCrA-9b}.
+In addition, the spectral dimension provided by those IFS has allowed us to characterize directly imaged exoplanets such as HR\,8799bcde \citep[e.g.,][]{2013Konopacky,Bonnefoy2016}, $\beta$\,Pic\,b \citep[e.g.,][]{Bonnefoy2014,2017ChilcoteBetapic}, HD\,206893b \citep[e.g.,][]{2017DelormeHD206893b}, PDS\,70b \citep[e.g][]{2018MullerPDS70,2019ChristiaensPDS70}, or HIP\,99770b \citep[][]{2023Currie}, and has provided clues on the nature of various low mass substellar companions such as HD142527B \citep[e.g.,][]{2018A&ChristiaensHD142527} or the as yet unidentified type of companion such as CrA\,9b \citep[][]{2021ChristiaensCrA-9b}.
 \newchange{The early science operations of JWST/NIRSpec \citep{2022BokerJWST}, including specific high-contrast imaging applications \citep{2023RuffioJWST}, further demonstrates the detection ability of such instruments.}}
 
 %Thus we have the spatial dimension that has been mostly used to detect exoplanets, whereas the spectral dimension has been used for characterization.
@@ -108,7 +111,7 @@ However, these discoveries have been far and few because of the specific challen
 One of the more difficult challenges is to be able to separate the exoplanetary signal from the ever-present stellar glare.
 The flux ratio between the exoplanet and its host star, termed contrast, can be as high as $10^{-10}$ for a Jupiter like planet in a Solar system analog in visible light \citep[e.g.,][]{2023Galicher}.
 Therefore, we work in the regime of high-contrast imaging (HCI), where the planetary flux to stellar flux ratio defines the sensitivity of our detections.
-In order to work in the high-contrast regime, a number of observing strategies have been employed, the most common for exoplanet imaging being angular differential imaging \citep[ADI, ][]{Liu2004,2006MaroisADI} and spectral differential imaging \citep[SDI, ][]{2002SparksSDI}. These two techniques can even be combined in a hybrid mode referred to as spectral angular differential imaging \citep[SADI, e.g.,][]{2019ChristiaensPDS70}.
+\newchange{In order to work in the high-contrast regime, a number of observing strategies have been employed, the most common for exoplanet imaging being angular differential imaging \citep[ADI, ][]{Liu2004,2006MaroisADI} and spectral differential imaging \citep[SDI, ][]{2002SparksSDI}. These two techniques can even be combined in a hybrid mode referred to as spectral angular differential imaging \citep[SADI, e.g.,][]{2019ChristiaensPDS70}.}
 While these strategies have its own unique features, in general, they produce a model for the stellar halo that can be subtracted from the data, leaving the residual data largely free of stellar contamination.
 However, unsubtracted speckle signal in the data can still be confused as exoplanet companions.
 Therefore, astronomers are limited to contrasts where it is possible to confidently differentiate between the exoplanet companions and speckles. These achievable sensitivity limits are generally much shallower than what would theoretically be allowed by the fundamental photon noise limit.
@@ -135,9 +138,9 @@ In addition, the S/N computation method used by some authors \citep[e.g in][]{20
 
 \newchange{In order to tackle some of these issues, we propose the use of supervised machine learning (ML) techniques to exploit the multi-dimensional character of IFS datasets. In the literature, ML techniques have already been proposed to process the spectral and spatial dimensions separately for direct exoplanet characterization tasks. In particular, \citet{2020Fisher} demonstrated that using high-resolution spectra in an ML framework is not efficient, and proposed to feed the ML models with cross-correlation coefficients instead. 
 We therefore only consider cross-correlation maps, which preserve the multi-dimensionality of the datasets, where the wavelength dimension is replaced by the radial velocity of the cross-correlation and the photon values by the cross-correlation coefficients.  The presence of these multiple dimensions lends to the potential of using ML algorithms to claim detections as opposed to using metrics such as S/N.}
-Using spatial data with ML algorithms has had particular success in the direct imaging community, to detect point like sources \citep{2018Gomez,2023Carlito} or to build the reference PSF to be subtracted in ADI images \citep{2022Gebhard,2023Flasseur}.
+\newchange{Using spatial data with ML algorithms has had particular success in the direct imaging community, to detect point like sources \citep{2018Gomez,2023Carlito} or to build the reference PSF to be subtracted in ADI images \citep{2022Gebhard,2023Flasseur}.}
 \newchange{However, research in the field of exoplanet detection using spectral and direct imaging data with ML algorithms still has plenty of scope to develop. This is a gap that this paper, and a companion paper by Garvin et al. (in prep), will be addressing.
-Here, we are focusing on how spatial, spectral (i.e., cross-correlation), and temporal dimensions can be most effectively leveraged together in a single ML framework. In the companion paper, an alternative approach is explored where the ML framework works only in the cross-correlated spectral dimension. This provides a more instrument-agnostic approach inasmuch as the spatial dimension is treated separately, which allows the use of this approach on long-slit spectroscopy data sets as well, for instance. These two studies aim to illustrate the yet untapped potential of ML techniques to tackle spectrally resolved exoplanet data sets for exoplanet detection.
+Here, we are focusing on how spatial, spectral (i.e., cross-correlation), and temporal dimensions can be most effectively leveraged together in a single ML framework. In the companion paper, an alternative approach is explored where the ML framework focuses only on the cross-correlated spectral dimension. This provides a more instrument-agnostic approach inasmuch as the spatial dimension is treated separately, which allows the use of this approach on long-slit spectroscopy data sets as well, for instance. These two studies aim to illustrate the yet untapped potential of ML techniques to tackle spectrally resolved exoplanet data sets for exoplanet detection.
 Having two parallel and complementary studies allows us to explore the potential of ML techniques in a more comprehensive manner without having to force either study to be a one-size-fits-all solution.}
 
 \newchange{The main research question of the present paper is whether ML can improve upon the detection capability of non-ML algorithms, taking advantage of all the available dimensions in high-contrast IFS data sets. This involves addressing some intermediate questions, such as the definition of an appropriate non-ML algorithm to compare with, and the definition of performance metrics.}
@@ -178,20 +181,19 @@ We identify bad pixels with an iterative sigma-clipping algorithm, and correct t
 We resample each image vertically by a factor two, to avoid the redundant rows. 
 We find the stellar centroid by fitting a 2D Gaussian model to each spectral channel. 
 These fits also enable us to estimate the FWHM of the PSF in each channel. 
-In this paper we explore the detection of a population of planets which are relatively young (typically a few tens of Myr old) where they still retain a large fraction of their formation entropy, \newchange{\sout{making them `warm'}} with a $T_{\rm eff}\approx 1000 - 1500$~K.
+In this paper we explore the detection of a population of planets which are relatively young (typically a few tens of Myr old) where they still retain a large fraction of their formation entropy, with a $T_{\rm eff}\approx 1000 - 1500$~K.
 Such exoplanets are called \newchange{young gas giant}s because of their \newchange{age} and gas giant composition.
 In order to simulate the presence of a \newchange{young gas giant} in the data we inject a simulated \newchange{young gas giant} at a specific radial distance and position angle (PA) from the frame center.
 We use the substellar templates characterized by their effective temperature ($T_{\rm{eff}}$) and surface gravity ($\log(g)$), and contain detailed spectra which model the atmosphere for brown dwarfs, late M-type stars, and young gas-giant planets or \newchange{young gas giant}s.
-\newchange{young gas giant}s are particularly interesting as they seem to be present in the $5-20$~au distance range \cite{2016Bryan}.
+\newchange{Young gas giant}s are particularly interesting as they seem to be present in the $5-20$~au distance range \cite{2016Bryan}.
 For this paper we use the models from BT-SETTL as \newchange{it allows us} to have a large enough wavelength range in the infrared. 
 With the BT-SETTL models we have access to wavelengths between $1\mu$m to $30\mu$m.
 We choose a \newchange{young gas giant} template with a $T_{\rm eff} = 1300$K and a $\log(g)=3.0$.
 The wavelength vector is recalculated by cross correlating the sky signal present in spectral channels at the edges of the H and K band channels with the expected ESOCalc transmission profile following \cite{2018AHoeijmakersMM}. 
-The spectral frames are then cropped around the identified stellar centroid positions, which both recenters the images on the star and removes artefacts that affect spaxels at the edge of the frames.
+\newchange{The spectral frames are then cropped around the identified stellar centroid positions,which falls typically at $\approx 2-3$ pixels from the center of the frames during the observation. This step both recenters the images on the star and removes artefacts that affect spaxels at the edge of the frames.
+This in turn reduces the field of view of the frames to $61\times61$ pixels.}
 Finally, we collate all re-centered cubes into a single master 4D tensor.
 The tensor now has $83$ temporal cubes with $2000$ wavelength bins with $61$ rows and $61$ columns of pixels.
-\newchange{The reduced number of pixels is a result of the tradeoff with trying to keep as much of the field of view as possible while simultaneously filtering the bad pixels, that occur preferentially at the edges of the field of view.}
-%At a pixel resolution $12.5$ mas/pixel this leads to a field of view of $0\farcs76 \times 0\farcs76$ for each image.
 
 \subsection{Injection of simulated \newchange{young gas giant}s in the data}\label{sec: FC insertion}
 
@@ -217,24 +219,22 @@ In order to rule out the possibility of a real \newchange{young gas giant} biasi
 \subsection{Producing cross-correlation cubes}\label{sec:specpreproc}
 
 After injecting fake planets into our 4D IFS data cubes, we now proceed with the computation of the cross-correlation, which consists of two steps: (i) reducing the amount of stellar feature contamination in the data, and (ii) cross-correlating each spaxel with a similarly pre-processed version of a BT-SETTL planetary template with similar $T_{\rm eff}$ and $\log(g)$ to the one used for the injection.
-The idea of using a similar but not exact same template is to take into account the possible mismatch between BT-SETTL models and real planets, and avoid a too optimistic set of cross-correlation tensors. The chosen templates are typically picked two grid points away from the injected template. This is expected to preserve a relatively high cross-correlation with the injected template, as cross-correlations are not very sensitive to $T_{\rm eff}$ and $\log(g)$. Picking templates further away from the injected template within the BT-SETTL grid may result in unrealistically low cross-correlation values. In practice, when performing planet detection in a yet-undetected planetary system, a large number of templates will generally be used, which is expected to result in relatively high cross-correlation in at least a few cross-correlation tensors. This is the situation that we try to reproduce here.
-%\newchange{If we use the exact template then it would result in cross-correlation cubes that have unrealistically high cross-correlation values making our algorithm optimistic. 
-%Whereas if we choose a template that is very far away from the inject one (say four grid points away) it might lead to unrealistically low cross-correlation values making our algorithm pessimistic.}
-%\newchange{Hence, w}e use a template that is two grid points away from the template injected into the cubes.
-%Two terminologies of note is the word `spaxel' that refers to the spectra associated with the pixel and `extraction of a spectrum' refers to performing aperture photometry on each spaxel and the resultant spectrum is the `extracted' spectrum.
+The idea of using a similar but not exact same template is to take into account the possible mismatch between BT-SETTL models and real planets, and avoid a too optimistic set of cross-correlation tensors. 
+\newchange{The chosen templates are typically picked two grid points away from the injected template. This is expected to preserve a relatively high cross-correlation with the injected template, as cross-correlations are not very sensitive to $T_{\rm eff}$ and $\log(g)$. 
+Picking templates further away from the injected template within the BT-SETTL grid may result in unrealistically low cross-correlation values. In practice, when performing planet detection in a yet-undetected planetary system, a large number of templates will generally be used, which is expected to result in relatively high cross-correlation in at least a few cross-correlation tensors. This is the situation that we try to reproduce here.}
 
 \subsection{Producing cross correlation cubes}\label{sec:cubeproc}
 
 After injecting fake planets into our 4D IFS data cubes, we now proceed with the computation of the cross correlation, which consists of two steps: (i) reducing the amount of stellar feature contamination in the data, and (ii) cross correlating each spaxel with a similarly pre-processed version of a BT-SETTL planetary template with similar $T_{\rm eff}$ and $\log(g)$ to the one used for the injection.
 The idea of using a similar but not exact template is to avoid a highly optimistic set of cross correlation tensors.
 \newchange{If we use the exact template then it would result in cross correlation cubes that have unrealistically high cross correlation values making our algorithm optimistic. 
-Whereas if we choose a template that is very far away from the inject one (say four grid points away) it might lead to unrealistically low cross correlation values making our algorithm pessimistic.}
+Whereas if we choose a template that is very far away from the injected one (say four grid points away) it might lead to unrealistically low cross correlation values making our algorithm pessimistic.}
 \newchange{Hence, w}e use a template that is two grid points away from the template injected into the cubes.
 %Two terminologies of note is the word `spaxel' that refers to the spectra associated with the pixel and `extraction of a spectrum' refers to performing aperture photometry on each spaxel and the resultant spectrum is the `extracted' spectrum.
 
 \subsubsection{Stellar spectral feature subtraction}
 
-To remove any lower order residual contamination, we compute a first order \newchange{\sout{Savitzky-Golay filtered spectrum } the spectrum filtered using the Savitzky-Golay filter \citep{1964SavitzkyGolay}} with a window size of $101$ and subtract it from the extracted spectrum. The original spectrum is then replaced by this residual spectrum at the same pixel.
+To remove any lower order residual contamination, we compute \newchange{the spectrum filtered using the Savitzky-Golay filter \citep{1964SavitzkyGolay}} with a window size of $101$ and subtract it from the extracted spectrum. The original spectrum is then replaced by this residual spectrum at the same pixel.
 Before computing the cross correlation on each spaxel of our IFS cubes, it is important to first reduce the amount of stellar light in the data. 
 While classical HCI post-processing techniques such as ADI or SDI rely on the spatial structure and behaviour of stellar speckles to remove them from the data, here we rely on the spectral behaviour following the first step of the High Resolution Spectral Differential Imaging (HRSDI) introduced by \citet{2019Haffert}. 
 This step consists of constructing a reference spectrum that contains the stellar spectral features and then dividing \citep[or subtracting, in the case of][]{2019Haffert} this reference spectrum from spectra extracted from every pixel using aperture photometry. 
@@ -259,9 +259,6 @@ The cross correlation $\mathcal{C}$ between the model template $M_{\lambda}$ and
     \mathcal{C}(v) = \sum\limits_{\lambda}F_{\rm{\lambda}}\times (M_{v,\lambda}-M_{\rm{SG},v,\lambda})  \; ,
     \label{eq:CC equation}
 \end{equation}
-This ratio is then used to define the signal to noise ratio (S/N) for the cross correlation.
-This, however, biases the noise estimation for a cross correlation because of the presence of auto-correlation.
-Thus, the noise is typically underestimated.
 where $v$ is the velocity shift, $M_{v,\lambda}$ the velocity-shifted version of $M_{\lambda}$, and $M_{\rm{SG},\lambda}$ the model template after applying the Savitzky-Golay filter.
 In this paper, we sample the velocities at every $10$ km/s between $-100$ to $100$ km/s, resulting in a total of 20 velocity bins. Thus, for each pixel, $F_\lambda$ is now replaced by $\mathcal{C}(v)$. This lowers the total size of the data although the number of data dimensions remain the same, and we have a 4D tensor once again with the dimensions $\left(83\times20\times61\times61\right)$ where the 20 corresponds to $v$ replacing the 2000 wavelength bins.
 
@@ -492,32 +489,25 @@ We use the number of false positives in the validation data to tune the mix of c
 We started with a small network and grew it layer by layer as the validation data produced more true positives (i.e., started detecting the simulated \newchange{young gas giant} over multiple separations and for higher contrasts) and fewer false positives.
 It became quickly clear that hyperparameters of the network (such as number of neurons, number of layers, and activation functions) themselves have little impact on the number of false positives produced in the validation data.
 Initially, we started with the full range of contrasts starting from $5\times10^{-2}$ to $10^{-4}$ with no sub-pixel shifts.
-We noticed that, as we increase the number of high-contrast examples in the data, we encounter higher false positives generated. Therefore, we limit the contrast to $<10^{-3}$ \newchange{(i.e to simultated new gas giants that are brighter than $10^{-3}$)} with the full range of separations starting from $\sim 1$ FWHM up to $\sim 5$ FWHM.
+We noticed that, as we increase the number of high-contrast examples in the data, we encounter higher false positives generated. Therefore, we limit the contrast to $<10^{-3}$ \newchange{(i.e., to simultated new gas giants that are brighter than $10^{-3}$)} with the full range of separations starting from $\sim 1$ FWHM up to $\sim 5$ FWHM.
 We use the $\texttt{binary\_cross\_entropy}$ loss function \citep{1993Li} to compare the prediction of the deep-learning algorithms with the truth value.
 We use the Adam optimizer \citep{2014Adam} to minimize the loss and overcome local minimas.
 
 \section{Comparing the performance of the algorithms}\label{sec:results}
 
 We benchmark all our algorithms based on their ability to accurately detect simulated \newchange{young gas giant}s at contrasts dimmer than $10^{-3}$ with the fewest number of mistaken detections.
-\newchange{At this point, it is important to make the distinction betweem the contrasts supplied when training the ML algorithms is limited to simulated young gas giants brighter than $10^{-3}$ to have lesser overfitting; while at testing we use the full range of contrasts (i.e $10^{-2}$ to $10^{-4}$).}
+\newchange{At this point, it is important to make the distinction between the contrasts supplied when training the ML algorithms, that is limited to simulated young gas giants brighter than $10^{-3}$ to have lesser overfitting; while at testing we use the full range of contrasts (i.e., $10^{-2}$ to $10^{-4}$).}
 In this section, we describe the production of detection map and binary maps with our test data described in the previous section.
 The binary maps are then used to compute true and false positives, and we finally describe the metric used for the comparison of our algorithms, based on modified receiver operating characteristic (mROC) curves.
 
 
 \subsection{Producing detection and binary maps on test data}\label{sec:testdata}
 
-
-\begin{figure*}[t]
-    \centering
-    \includegraphics[width=\textwidth]{Fig3_Sep2023.png}
- %   \caption{\newchange{Illustration of the TP and FP counting process. Column 1 shows the detection map used to produce four different binary maps, thresholded at different intensity levels (columns 2-5), for the three algorithms (respectively STCM, C3PO, and C-LANDO, from top to bottom). A fake companion was inserted at position $\Delta{\rm Dec}=0.0$ and $\Delta{\rm RA} = -0.2$. TPs and FPs are respectively shown in green and in red for the thresholds indicated in the titles of each image. Each red blob/point is counted as a single FP/TP, with blobs representing many connected pixels at the same binary intensity level.}}
-    %\label{fig:sample_detmaps}
-\end{figure*}
 \begin{figure*}[t]
     \centering
  %   \includegraphics[width=\textwidth]{Fig3_Sep2023.png}
     \includegraphics[width=\textwidth]{Fig3_Mar2024_referee.png}
-    \caption{\newchange{Illustration of the TP and FP counting process. Column 1 shows the detection map used to produce four different binary maps, thresholded at different intensity levels (columns 2-5), for the three algorithms (respectively STCM, C3PO, and C-LANDO, from top to bottom). A fake companion was inserted at position $\Delta{\rm Dec}=0.0$ and $\Delta{\rm RA} = -0.2$. TPs and FPs are respectively shown in green and in red for the thresholds indicated in the titles of each image. Each red blob/point is counted as a single FP/TP, with blobs representing many connected pixels at the same binary intensity level.}}
+    \caption{\newchange{Illustration of the TP and FP counting process. Column 1 shows the detection map used to produce four different binary maps, thresholded at different intensity levels (columns 2-5), for the three algorithms (respectively STCM, C3PO, and C-LANDO, from top to bottom). A fake companion was inserted at position $\Delta{\rm Dec}=0.0$ and $\Delta{\rm RA} = -0.2$ TPs and FPs are respectively shown in green and in red for the thresholds indicated in the titles of each image. Each red blob/point is counted as a single FP/TP, with blobs representing many connected pixels at the same binary intensity level.}}
     \label{fig:sample_detmaps}
 \end{figure*}
 
@@ -556,13 +546,6 @@ They allow to benchmark both ML and non-ML pipelines and make a relative compari
 
 In this paper, we define all the connected pixels in a binary map within $\sim 1$ FWHM of the original insertion of the simulated \newchange{young gas giant} as a true positive (TP) and all other non-zero pixels as a false positive (FP). We perform this analysis over multiple insertions and thereby derive the number of TPs per insertion, also known as a true positive rate (TPR), and the mean number of FPs per detection map, or a mean full frame FP as described in \citet{2018Gomez}. Because we consider the whole field of view to count a mean number of FPs, instead of testing each single resolution element at a time to derive a false positive rate (FPR), we use adapted ROC curves referred to as mROC curves. In comparison to ROC curves, these mROC curves are arguably more relevant to the problem at hand, where the goal is to work at very low FPR (e.g., $3\times 10^{-7}$ for an equivalent Gaussian $5\sigma$ detection). As we produce these mROC curves  curves for each detection map, we mask a circular region of $3.5$ pixels from each frame center.
 
-\begin{figure*}
-\centering
-    \includegraphics[width=1.0\textwidth]{fig4_dec2023.png}
-%    \caption{ROC produced for a separation of between $1-2$ FWHM with the same set of contrasts.}
-  %  \label{fig:fig_4}
-%\caption{ mROC curves produced by inserting a total of 40 exoplanets for a set of contrasts ($6 \times 10^{-4}$, $4 \times 10^{-4}$ and $2 \times 10^{-4}$ from top to bottom) at annuli of different separations in the ranges $3-4$, $2-3$ and $1-2$ FWHM (left, middle, and right columns, respectively).
-\end{figure*}
 \begin{figure*}
 \centering
     \includegraphics[width=1.0\textwidth]{Fig4_Apr2024_referee_final.png}
@@ -672,19 +655,6 @@ The spatial signature of the cross-correlation plays another, in our view, cruci
 When we compare the inputs to both the algorithms between the different contrasts, the spatial distribution of the cross-correlation coefficients is better conserved for the input to C3PO than for C-LANDO, although the mean cross-correlation strength is reduced for a higher contrast.
 This seems to be another key differentiating factor between the two algorithms where it appears that computing the mean to produce the last row focuses the features better to enable an ML algorithm to be more sensitive to a high-contrast exoplanet.
 \subsection{Importance of the velocity dimension}
-
-\begin{figure*}
-    \centering
-    \includegraphics[width=\textwidth]{Fig6_final_September.png}
-    %\caption{Comparison of mROC curves produced with and without using the velocity dimension, using otherwise the same dataset, at two contrast levels ($4\times 10^{-4}$ and $2\times 10^{-4}$) and for a separation of 3 to 4 FWHM. In case where the velocity dimension is not used, illustrated with the purple and yellow dashed lines for C3PO and C-LANDO respectively, the velocity dimension is replaced by the central velocity bin. This makes the comparison to STCM a little more fair as STCM does not have the capability to use the velocity dimension.
-%The second point is that the evolution (i.e shape of the mROC curves) of the TPRs produced by the ML algorithms remains similar both with and without the velocity dimension between two different contrasts, i.e., the TPR falls by a fraction of $\approx 50\%$ between contrasts.
-%However, within the same contrast regime (in this case each sub plot), the TPR produced by C-LANDO with velocity is $\approx 20\%$ higher than without the velocity evolution (for a fixed FP), whereas the evolution of the TPR produced by C3PO is less dramatic.
-%The velocity dimension produces a distinct systematic variation of spatial features (i.e., both cross correlation values and the spatial distribution of the cross correlation).
-%This is becomes evident in Fig.~\ref{fig:fig-2}, when comparing the evolution of the spatial features with velocity between $\rm{C_{FC}}$ and $\rm{C_N}$.
- %   Note that the solid curves remain the same as in Fig.~\ref{fig:fig_4}.
-  %  }
-  %  \label{fig:novel_roc}
-\end{figure*}
 \begin{figure*}
     \centering
     \includegraphics[width=\textwidth]{Fig6_April2024_referee_final.png}
