@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.6)  19 APR 2024 16:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.6)  19 APR 2024 16:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -480,6 +480,10 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
 \ULC@box=\box70
 Package: ulem 2019/11/18
 \ULdepth=\dimen180
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/ftnright.sty
+Package: ftnright 2014/10/28 v1.1f footnote layout package (FMi)
+\rcol@footinsskip=\skip127
+\ftn@amount=\dimen181
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2023-02-07 v7.00v Hypertext links for LaTeX
  (/usr/local/texlive/2023/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
@@ -515,7 +519,7 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count313
 )
-\@linkdim=\dimen181
+\@linkdim=\dimen182
 \Hy@linkcounter=\count314
 \Hy@pagecounter=\count315
  (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/pd1enc.def
@@ -543,15 +547,15 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4425.
 \c@Hy@tempcnt=\count317
 LaTeX Info: Redefining \url on input line 4763.
-\XeTeXLinkMargin=\dimen182
+\XeTeXLinkMargin=\dimen183
  (/usr/local/texlive/2023/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
  (/usr/local/texlive/2023/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count318
-\Field@Width=\dimen183
-\Fld@charsize=\dimen184
+\Field@Width=\dimen184
+\Fld@charsize=\dimen185
 Package hyperref Info: Hyper figures OFF on input line 6042.
 Package hyperref Info: Link nesting OFF on input line 6047.
 Package hyperref Info: Hyper index ON on input line 6050.
@@ -583,7 +587,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
-\Hy@SectionHShift=\skip127
+\Hy@SectionHShift=\skip128
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count324
@@ -591,40 +595,40 @@ File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 ) (./nathpaper.aux)
 \openout1 = `nathpaper.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 53.
-LaTeX Font Info:    Trying to load font information for OML+txmi on input line 53.
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 54.
+LaTeX Font Info:    Trying to load font information for OML+txmi on input line 54.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/txfonts/omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 53.
-LaTeX Font Info:    Trying to load font information for OMS+txsy on input line 53.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 54.
+LaTeX Font Info:    Trying to load font information for OMS+txsy on input line 54.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/txfonts/omstxsy.fd
 File: omstxsy.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 53.
-LaTeX Font Info:    Trying to load font information for OMX+txex on input line 53.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 54.
+LaTeX Font Info:    Trying to load font information for OMX+txex on input line 54.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/txfonts/omxtxex.fd
 File: omxtxex.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 53.
-LaTeX Font Info:    Trying to load font information for U+txexa on input line 53.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 54.
+LaTeX Font Info:    Trying to load font information for U+txexa on input line 54.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/txfonts/utxexa.fd
 File: utxexa.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
 
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -649,7 +653,7 @@ LaTeX Font Info:    ... okay on input line 53.
 * \marginparwidth=0.0pt
 * \marginparsep=0.0pt
 * \columnsep=11.38109pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.0pt plus 5.0pt minus 3.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -662,13 +666,13 @@ LaTeX Font Info:    ... okay on input line 53.
 (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count325
-\scratchdimen=\dimen185
+\scratchdimen=\dimen186
 \scratchbox=\box72
 \nofMPsegments=\count326
 \nofMParguments=\count327
 \everyMPshowfont=\toks34
 \MPscratchCnt=\count328
-\MPscratchDim=\dimen186
+\MPscratchDim=\dimen187
 \MPnumerator=\count329
 \makeMPintoPDFobject=\count330
 \everyMPtoPDFconversion=\toks35
@@ -681,7 +685,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 53.
+Package hyperref Info: Link coloring OFF on input line 54.
  (./nathpaper.out) (./nathpaper.out)
 \@outlinefile=\write3
 \openout3 = `nathpaper.out'.
@@ -691,7 +695,7 @@ Package hyperref Info: Link coloring OFF on input line 53.
 
 IMPORTANT
 
-Class aa Warning: Around 386 words in the abstract instead of 300 (max). You should rewrite your abstract on input line 104.
+Class aa Warning: Around 386 words in the abstract instead of 300 (max). You should rewrite your abstract on input line 105.
 
 IMPORTANT 
 
@@ -774,6 +778,10 @@ Package hyperref Warning: Suppressing link with empty target on input line 132.
 
 
 ]
+Underfull \hbox (badness 1221) in paragraph at lines 165--165
+[][][][]\T1/txr/m/n/8 The code used in this pa-per is avail-able at []$\T1/txtt/m/n/8 https : / / github . com /
+ []
+
 
 Package hyperref Warning: Suppressing link with empty target on input line 166.
 
@@ -788,12 +796,9 @@ LaTeX Font Info:    Font shape `T1/txr/b/n' in size <10> not available
 (Font)              Font shape `T1/txr/bx/n' tried instead on input line 192.
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 228.
+Package hyperref Warning: Suppressing link with empty target on input line 227.
 
 [3]
-Underfull \vbox (badness 1874) has occurred while \output is active []
-
-
 
 LaTeX Warning: Reference `sec:cubeproc' on page 4 undefined on input line 283.
 
@@ -801,7 +806,7 @@ LaTeX Warning: Reference `sec:cubeproc' on page 4 undefined on input line 283.
 Package hyperref Warning: Suppressing link with empty target on input line 289.
 
 [4]
-<Fig1_Dec_highres_noinbetween.png, id=350, 549.252pt x 578.16pt>
+<Fig1_Dec_highres_noinbetween.png, id=353, 549.252pt x 578.16pt>
 File: Fig1_Dec_highres_noinbetween.png Graphic file (type png)
 <use Fig1_Dec_highres_noinbetween.png>
 Package pdftex.def Info: Fig1_Dec_highres_noinbetween.png  used on input line 301.
@@ -818,22 +823,22 @@ Underfull \vbox (badness 1210) has occurred while \output is active []
 Package hyperref Warning: Suppressing link with empty target on input line 367.
 
 [6 <./Fig1_Dec_highres_noinbetween.png>]
-<c3po.png, id=407, 244.915pt x 1535.7375pt>
+<c3po.png, id=409, 244.915pt x 1535.7375pt>
 File: c3po.png Graphic file (type png)
 <use c3po.png>
 Package pdftex.def Info: c3po.png  used on input line 376.
 (pdftex.def)             Requested size: 67.45833pt x 423.0043pt.
-<clando.png, id=408, 337.26pt x 1407.2575pt>
+<clando.png, id=410, 337.26pt x 1407.2575pt>
 File: clando.png Graphic file (type png)
 <use clando.png>
 Package pdftex.def Info: clando.png  used on input line 377.
 (pdftex.def)             Requested size: 92.92432pt x 387.75215pt.
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 422.
+Package hyperref Warning: Suppressing link with empty target on input line 418.
 
 [7 <./c3po.png> <./clando.png>]
-<fig_2_dec2023_aligned_cropped.png, id=444, 497.2176pt x 180.675pt>
+<fig_2_dec2023_aligned_cropped.png, id=447, 497.2176pt x 180.675pt>
 File: fig_2_dec2023_aligned_cropped.png Graphic file (type png)
 <use fig_2_dec2023_aligned_cropped.png>
 Package pdftex.def Info: fig_2_dec2023_aligned_cropped.png  used on input line 426.
@@ -852,7 +857,7 @@ Underfull \hbox (badness 2158) in paragraph at lines 468--469
 Package hyperref Warning: Suppressing link with empty target on input line 491.
 
 [8]
-<Fig3_Mar2024_referee.png, id=471, 1011.78pt x 578.16pt>
+<Fig3_Mar2024_referee.png, id=474, 1011.78pt x 578.16pt>
 File: Fig3_Mar2024_referee.png Graphic file (type png)
 <use Fig3_Mar2024_referee.png>
 Package pdftex.def Info: Fig3_Mar2024_referee.png  used on input line 512.
@@ -862,15 +867,21 @@ Package pdftex.def Info: Fig3_Mar2024_referee.png  used on input line 512.
 Package hyperref Warning: Suppressing link with empty target on input line 538.
 
 [9 <./fig_2_dec2023_aligned_cropped.png>]
-<Fig4_Apr2024_referee_final.png, id=489, 650.43pt x 578.16pt>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<Fig4_Apr2024_referee_final.png, id=492, 650.43pt x 578.16pt>
 File: Fig4_Apr2024_referee_final.png Graphic file (type png)
 <use Fig4_Apr2024_referee_final.png>
 Package pdftex.def Info: Fig4_Apr2024_referee_final.png  used on input line 554.
 (pdftex.def)             Requested size: 523.5307pt x 465.39577pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 566--566
-[][][][]$\T1/txtt/m/n/9 https : / / vip . readthedocs . io / en / latest / _modules / vip _
+[][][][][]$\T1/txtt/m/n/8 https : / / vip . readthedocs . io / en / latest / _modules / vip _ hci /
  []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 
 
 Package hyperref Warning: Suppressing link with empty target on input line 576.
@@ -880,10 +891,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 586.
+Package hyperref Warning: Suppressing link with empty target on input line 576.
 
 [11 <./Fig4_Apr2024_referee_final.png>]
-<fig5_disc_dec2023_cropped.png, id=522, 717.09908pt x 385.01843pt>
+<fig5_disc_dec2023_cropped.png, id=525, 717.09908pt x 385.01843pt>
 File: fig5_disc_dec2023_cropped.png Graphic file (type png)
 <use fig5_disc_dec2023_cropped.png>
 Package pdftex.def Info: fig5_disc_dec2023_cropped.png  used on input line 634.
@@ -893,7 +904,7 @@ Package pdftex.def Info: fig5_disc_dec2023_cropped.png  used on input line 634.
 Package hyperref Warning: Suppressing link with empty target on input line 658.
 
 [12]
-<Fig6_April2024_referee_final.png, id=531, 578.16pt x 433.62pt>
+<Fig6_April2024_referee_final.png, id=534, 578.16pt x 433.62pt>
 File: Fig6_April2024_referee_final.png Graphic file (type png)
 <use Fig6_April2024_referee_final.png>
 Package pdftex.def Info: Fig6_April2024_referee_final.png  used on input line 665.
@@ -909,9 +920,6 @@ Package hyperref Warning: Suppressing link with empty target on input line 693.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Underfull \vbox (badness 5970) has occurred while \output is active []
-
-
 
 Package hyperref Warning: Suppressing link with empty target on input line 708.
 
@@ -921,7 +929,7 @@ Underfull \hbox (badness 1831) in paragraph at lines 77--78
  []
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 184.
+Package hyperref Warning: Suppressing link with empty target on input line 165.
 
 [15])
 
@@ -1146,18 +1154,18 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 16405 strings out of 476025
- 259662 string characters out of 5790017
- 1892388 words of memory out of 5000000
- 36397 multiletter control sequences out of 15000+600000
- 613473 words of font info for 181 fonts, out of 8000000 for 9000
+ 16430 strings out of 476025
+ 260418 string characters out of 5790017
+ 1891388 words of memory out of 5000000
+ 36422 multiletter control sequences out of 15000+600000
+ 611043 words of font info for 178 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,12n,90p,1540b,738s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 87i,12n,90p,1540b,722s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtcxr.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on nathpaper.pdf (16 pages, 2169823 bytes).
+Output written on nathpaper.pdf (16 pages, 2170610 bytes).
 PDF statistics:
- 667 PDF objects out of 1000 (max. 8388607)
- 594 compressed objects within 6 object streams
- 148 named destinations out of 1000 (max. 500000)
+ 670 PDF objects out of 1000 (max. 8388607)
+ 598 compressed objects within 6 object streams
+ 149 named destinations out of 1000 (max. 500000)
  225 words of extra memory for PDF output out of 10000 (max. 10000000)
 

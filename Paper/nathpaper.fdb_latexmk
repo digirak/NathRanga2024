@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex nathpaper"] 1713535469 "nathpaper.aux" "nathpaper.bbl" "nathpaper" 1713535478 0
+["bibtex nathpaper"] 1713537505 "nathpaper.aux" "nathpaper.bbl" "nathpaper" 1713537514 0
   "./aa.bst" 1711876359 32101 d07be6eccf1293b463b353311acc9bc2 ""
   "./references_oab.bib" 1712507049 108427 fae94eb03b5cd21cd25aab449cedd9ac ""
-  "nathpaper.aux" 1713535478 36684 9f11df9ac12085c788cfaf18ccd81e1d "pdflatex"
+  "nathpaper.aux" 1713537513 36684 058d0eed91d628c64e915ca1dce40668 "pdflatex"
   (generated)
   "nathpaper.bbl"
   "nathpaper.blg"
   (rewritten before read)
-["pdflatex"] 1713535470 "/Users/rakesh/Documents/GitHub/NathRanga2024/Paper/nathpaper.tex" "nathpaper.pdf" "nathpaper" 1713535478 0
-  "/Users/rakesh/Documents/GitHub/NathRanga2024/Paper/nathpaper.tex" 1713535460 98618 00e415498f50980af19df2bd32ffbdf3 ""
+["pdflatex"] 1713537505 "/Users/rakesh/Documents/GitHub/NathRanga2024/Paper/nathpaper.tex" "nathpaper.pdf" "nathpaper" 1713537514 0
+  "/Users/rakesh/Documents/GitHub/NathRanga2024/Paper/nathpaper.tex" 1713537495 98533 7aef8ded865349ee43adc19e9016f6ae ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/ecrm1000.tfm" 1136768653 3584 adb004a0c8e7c46ee66cad73671f37b4 ""
@@ -147,6 +147,7 @@
   "/usr/local/texlive/2023/texmf-dist/tex/latex/sttools/cuted.sty" 1633983922 20893 be5f4cfbe5b8948d75d7c76838a15f64 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/tools/calc.sty" 1654720880 10214 de3e21cfc0eccc98ca7f8dac0ef263d2 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/tools/enumerate.sty" 1654720880 3468 46ba9177f0f0a79fe79845d3eebff113 ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/tools/ftnright.sty" 1654720880 6144 14679eedc728539f32979fb771aa57a8 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/tools/longtable.sty" 1654720880 12892 af5f5e872a6e322f3e5ba2c881288a56 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/tools/xspace.sty" 1654720880 4545 4c279ac9292a1be8afa9ab2f1d3299c2 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/txfonts/omltxmi.fd" 1137111002 492 e7f8afe4428797548d4301de03a1b15f ""
@@ -178,10 +179,10 @@
   "clando.png" 1711876359 80803 3d46210ff1c00ed509f9967b47fe5903 ""
   "fig5_disc_dec2023_cropped.png" 1711876359 281752 d18870148130bd26984af54654c5d719 ""
   "fig_2_dec2023_aligned_cropped.png" 1711876359 235215 dd7ad56d7a67cf56be468d1c5242450d ""
-  "nathpaper.aux" 1713535478 36684 9f11df9ac12085c788cfaf18ccd81e1d "pdflatex"
-  "nathpaper.bbl" 1713535470 24235 7164391ef2f8eb9c2721788d24c7c052 "bibtex nathpaper"
-  "nathpaper.out" 1713535478 5223 9cc17c3df2e365b1d7c8bf5a44d7baa1 "pdflatex"
-  "nathpaper.tex" 1713535460 98618 00e415498f50980af19df2bd32ffbdf3 ""
+  "nathpaper.aux" 1713537513 36684 058d0eed91d628c64e915ca1dce40668 "pdflatex"
+  "nathpaper.bbl" 1713537505 24235 7164391ef2f8eb9c2721788d24c7c052 "bibtex nathpaper"
+  "nathpaper.out" 1713537513 5223 9cc17c3df2e365b1d7c8bf5a44d7baa1 "pdflatex"
+  "nathpaper.tex" 1713537495 98533 7aef8ded865349ee43adc19e9016f6ae ""
   (generated)
   "nathpaper.aux"
   "nathpaper.log"

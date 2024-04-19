@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.6)  19 APR 2024 15:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.6)  19 APR 2024 16:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -814,7 +814,7 @@ LaTeX Font Info:    Font shape `T1/txss/m/sl' will be
 (Font)              scaled to size 9.49997pt on input line 158.
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 175.
+Package hyperref Warning: Suppressing link with empty target on input line 176.
 
 [5]
 LaTeX Font Info:    Font shape `T1/txr/b/n' in size <10> not available
@@ -825,9 +825,12 @@ Package hyperref Warning: Suppressing link with empty target on input line 208.
 
 [6]
 
-Package hyperref Warning: Suppressing link with empty target on input line 225.
+Package hyperref Warning: Suppressing link with empty target on input line 226.
 
 [7]
+Underfull \vbox (badness 2717) has occurred while \output is active []
+
+
 
 Package hyperref Warning: Suppressing link with empty target on input line 252.
 
@@ -843,7 +846,7 @@ Underfull \vbox (badness 2837) has occurred while \output is active []
 Package hyperref Warning: Suppressing link with empty target on input line 281.
 
 [9]
-<Fig1_Dec_highres_noinbetween.png, id=368, 549.252pt x 578.16pt>
+<Fig1_Dec_highres_noinbetween.png, id=370, 549.252pt x 578.16pt>
 File: Fig1_Dec_highres_noinbetween.png Graphic file (type png)
 <use Fig1_Dec_highres_noinbetween.png>
 Package pdftex.def Info: Fig1_Dec_highres_noinbetween.png  used on input line 288.
@@ -867,12 +870,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Package hyperref Warning: Suppressing link with empty target on input line 353.
 
 [12]
-<c3po.png, id=426, 244.915pt x 1535.7375pt>
+<c3po.png, id=428, 244.915pt x 1535.7375pt>
 File: c3po.png Graphic file (type png)
 <use c3po.png>
 Package pdftex.def Info: c3po.png  used on input line 363.
 (pdftex.def)             Requested size: 67.45833pt x 423.0043pt.
-<clando.png, id=427, 337.26pt x 1407.2575pt>
+<clando.png, id=429, 337.26pt x 1407.2575pt>
 File: clando.png Graphic file (type png)
 <use clando.png>
 Package pdftex.def Info: clando.png  used on input line 364.
@@ -886,7 +889,7 @@ Package hyperref Warning: Suppressing link with empty target on input line 406.
 Package hyperref Warning: Suppressing link with empty target on input line 406.
 
 [14 <./c3po.png> <./clando.png>]
-<fig_2_dec2023_aligned_cropped.png, id=468, 497.2176pt x 180.675pt>
+<fig_2_dec2023_aligned_cropped.png, id=470, 497.2176pt x 180.675pt>
 File: fig_2_dec2023_aligned_cropped.png Graphic file (type png)
 <use fig_2_dec2023_aligned_cropped.png>
 Package pdftex.def Info: fig_2_dec2023_aligned_cropped.png  used on input line 414.
@@ -907,7 +910,7 @@ Package hyperref Warning: Suppressing link with empty target on input line 457.
 Package hyperref Warning: Suppressing link with empty target on input line 486.
 
 [17]
-<Fig3_Mar2024_referee.png, id=502, 1011.78pt x 578.16pt>
+<Fig3_Mar2024_referee.png, id=504, 1011.78pt x 578.16pt>
 File: Fig3_Mar2024_referee.png Graphic file (type png)
 <use Fig3_Mar2024_referee.png>
 Package pdftex.def Info: Fig3_Mar2024_referee.png  used on input line 500.
@@ -924,7 +927,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Package hyperref Warning: Suppressing link with empty target on input line 538.
 
 [19]
-<Fig4_Apr2024_referee_final.png, id=526, 650.43pt x 578.16pt>
+<Fig4_Apr2024_referee_final.png, id=528, 650.43pt x 578.16pt>
 File: Fig4_Apr2024_referee_final.png Graphic file (type png)
 <use Fig4_Apr2024_referee_final.png>
 Package pdftex.def Info: Fig4_Apr2024_referee_final.png  used on input line 542.
@@ -953,7 +956,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Package hyperref Warning: Suppressing link with empty target on input line 615.
 
 [22]
-<fig5_disc_dec2023_cropped.png, id=563, 717.09908pt x 385.01843pt>
+<fig5_disc_dec2023_cropped.png, id=565, 717.09908pt x 385.01843pt>
 File: fig5_disc_dec2023_cropped.png Graphic file (type png)
 <use fig5_disc_dec2023_cropped.png>
 Package pdftex.def Info: fig5_disc_dec2023_cropped.png  used on input line 620.
@@ -966,7 +969,7 @@ Underfull \vbox (badness 2961) has occurred while \output is active []
 Package hyperref Warning: Suppressing link with empty target on input line 644.
 
 [23 <./fig5_disc_dec2023_cropped.png>]
-<Fig6_April2024_referee_final.png, id=572, 578.16pt x 433.62pt>
+<Fig6_April2024_referee_final.png, id=574, 578.16pt x 433.62pt>
 File: Fig6_April2024_referee_final.png Graphic file (type png)
 <use Fig6_April2024_referee_final.png>
 Package pdftex.def Info: Fig6_April2024_referee_final.png  used on input line 651.
@@ -1218,18 +1221,18 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 16489 strings out of 476025
- 261309 string characters out of 5790017
+ 16488 strings out of 476025
+ 261307 string characters out of 5790017
  1875388 words of memory out of 5000000
  36464 multiletter control sequences out of 15000+600000
- 610381 words of font info for 178 fonts, out of 8000000 for 9000
+ 609005 words of font info for 176 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  87i,12n,90p,1548b,740s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtcxr.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on nathpaper_referee.pdf (29 pages, 2175605 bytes).
+Output written on nathpaper_referee.pdf (29 pages, 2175643 bytes).
 PDF statistics:
- 718 PDF objects out of 1000 (max. 8388607)
- 632 compressed objects within 7 object streams
- 161 named destinations out of 1000 (max. 500000)
+ 720 PDF objects out of 1000 (max. 8388607)
+ 634 compressed objects within 7 object streams
+ 162 named destinations out of 1000 (max. 500000)
  225 words of extra memory for PDF output out of 10000 (max. 10000000)
 

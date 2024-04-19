@@ -1025,13 +1025,10 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/txfonts/rtxbss.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/public/txfonts/t1xsssl.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/txfonts/rtxphvro.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/txfonts/rtxsssl.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/public/txfonts/txmi.vf
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/txfonts/rtxmi.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/txfonts/rtxptmri.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/public/txfonts/txr.vf
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/public/txfonts/txr.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/txfonts/t1xss.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/txfonts/t1xbss.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/public/txfonts/txr.vf
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/public/txfonts/txr.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/public/txfonts/t1xbss.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/txfonts/rtxphvb.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/txfonts/rtxbss.tfm
@@ -1044,6 +1041,7 @@ INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/txfonts/rtxptmr.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/txfonts/rtxr.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/txfonts/t1xss.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/txfonts/t1xsssl.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/public/txfonts/t1xr.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/public/txfonts/t1xsssl.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/txfonts/rtxphvro.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/txfonts/rtxsssl.tfm
@@ -1065,7 +1063,6 @@ INPUT ./Fig1_Dec_highres_noinbetween.png
 INPUT Fig1_Dec_highres_noinbetween.png
 INPUT ./Fig1_Dec_highres_noinbetween.png
 INPUT ./Fig1_Dec_highres_noinbetween.png
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/public/txfonts/t1xr.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/vf/public/txfonts/txmi.vf
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/txfonts/rtxmi.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/txfonts/rtxptmri.tfm
