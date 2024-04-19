@@ -1,3 +1,4 @@
 This repo contains codes developed for Nath Ranga et al 2024. The structure is the following:
-1. scripts -- contains scripts
-2. jupyter_notebooks -- contains demo notebooks.
+1. scripts -- contains scripts that produce the main algorithm and the mRoC curves
+2. jupyter_notebooks -- contains demo notebooks which allow for easy visualization of the plots. 
+A lot of this is in public interest to enable interest and encourage tranparency in science. Please let us know any suggestions to make this better
